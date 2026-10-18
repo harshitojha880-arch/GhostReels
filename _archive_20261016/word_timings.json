@@ -1,0 +1,137 @@
+[
+  {
+    "word": "You",
+    "start": 0.102,
+    "end": 0.153
+  },
+  {
+    "word": "check",
+    "start": 0.153,
+    "end": 0.3571
+  },
+  {
+    "word": "your",
+    "start": 0.3699,
+    "end": 0.472
+  },
+  {
+    "word": "phone",
+    "start": 0.472,
+    "end": 0.7908
+  },
+  {
+    "word": "before",
+    "start": 0.7908,
+    "end": 1.1097
+  },
+  {
+    "word": "answering",
+    "start": 1.1097,
+    "end": 1.4413
+  },
+  {
+    "word": "them",
+    "start": 1.4413,
+    "end": 1.6327
+  },
+  {
+    "word": "That",
+    "start": 2.028,
+    "end": 2.1173
+  },
+  {
+    "word": "is",
+    "start": 2.1173,
+    "end": 2.2066
+  },
+  {
+    "word": "not",
+    "start": 2.2066,
+    "end": 2.5128
+  },
+  {
+    "word": "love",
+    "start": 2.5128,
+    "end": 3.0357
+  },
+  {
+    "word": "that",
+    "start": 3.278,
+    "end": 3.4056
+  },
+  {
+    "word": "is",
+    "start": 3.4184,
+    "end": 3.5077
+  },
+  {
+    "word": "training",
+    "start": 3.5204,
+    "end": 4.0816
+  },
+  {
+    "word": "You",
+    "start": 4.477,
+    "end": 4.5791
+  },
+  {
+    "word": "apologize",
+    "start": 4.5791,
+    "end": 5.2806
+  },
+  {
+    "word": "for",
+    "start": 5.2806,
+    "end": 5.3954
+  },
+  {
+    "word": "things",
+    "start": 5.3954,
+    "end": 5.7143
+  },
+  {
+    "word": "you",
+    "start": 5.7143,
+    "end": 5.778
+  },
+  {
+    "word": "didn't",
+    "start": 5.778,
+    "end": 6.0076
+  },
+  {
+    "word": "do",
+    "start": 6.0204,
+    "end": 6.3393
+  },
+  {
+    "word": "That",
+    "start": 6.7475,
+    "end": 6.875
+  },
+  {
+    "word": "is",
+    "start": 6.875,
+    "end": 7.0153
+  },
+  {
+    "word": "what",
+    "start": 7.0153,
+    "end": 7.1556
+  },
+  {
+    "word": "conditioning",
+    "start": 7.1684,
+    "end": 7.7168
+  },
+  {
+    "word": "looks",
+    "start": 7.7168,
+    "end": 7.9209
+  },
+  {
+    "word": "like",
+    "start": 7.9209,
+    "end": 8.2398
+  }
+]

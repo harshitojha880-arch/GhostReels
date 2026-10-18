@@ -1,0 +1,962 @@
+[
+  {
+    "id": 1,
+    "text": "# Voice You keep checking the old photo albums for their smile, and you stop brushing off this habit.",
+    "prompt": "Insert detail shot. # Voice the subject keep checking the old photo albums for their smile, and the subject stop brushing off this habit. Inside an empty elevator, in grey storm-day window haze, with deliberate coldness. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 2,
+    "text": "Are you losing yourself? It’s a small detail, really, a faded snapshot of a youthful joy – a perfect, sun-drenched memory.",
+    "prompt": "Silhouetted wide composition — Are the subject losing themselves? It’s a small detail, really, a faded snapshot of a youthful joy – a perfect, sun-drenched memory. in a sparsely furnished living room, in candle-lit amber warmth, with restrained anger beneath calm. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 3,
+    "text": "You’ve been doing this for… well, for a long time, really.",
+    "prompt": "Back-focused over-shoulder view. The subject’ve been doing this for… well, for a long time, really. On a rooftop overlooking the city, under muted phone-screen glow, with the quiet of a room after an argument. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 4,
+    "text": "It started innocently enough, a fleeting moment of nostalgia, a quick glance at a picture of a smiling face.",
+    "prompt": "Over-the-shoulder frame. It started innocently enough, a fleeting moment of nostalgia, a quick glance at a picture of a smiling face. In a hospital corridor, in low-key shadow with one practical lamp, with quiet devastation. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 5,
+    "text": "Now, it’s a compulsion, a relentless need to revisit these moments, to that same warmth, that same happiness.",
+    "prompt": "Extreme close detail. Now, it’s a compulsion, a relentless need to revisit these moments, to that same warmth, that same happiness. In a dim apartment kitchen, lit by dim tungsten overhead, with the weight of unspoken words. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 6,
+    "text": "You’ve become obsessed with these images, letting them consume you.",
+    "prompt": "Two-person medium frame — The subject’ve become obsessed with these images, letting them consume the subject. in a narrow hallway, under cool blue-hour window light, with slow dawning realization. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 7,
+    "text": "It’s a subtle shift, a quiet erosion of your own emotional landscape.",
+    "prompt": "Intimate close-up. It’s a subtle shift, a quiet erosion of their own emotional landscape. In a parking garage under flickering light, under sodium-vapor streetlamp, with the stillness of aftermath. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 8,
+    "text": "You used to enjoy moments of quiet reflection, appreciating the beauty of a single image,",
+    "prompt": "Dutch-angle close shot. The subject used to enjoy moments of quiet reflection, appreciating the beauty of a single image,. On a stairwell landing, under yellow hallway sconce, with quiet suffocating tension. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 9,
+    "text": "allowing yourself to be absorbed in the feeling it evoked.",
+    "prompt": "Side-profile medium shot — Allowing themselves to be absorbed in the feeling it evoked. in a small bedroom with curtains drawn, in candle-lit amber warmth, with restrained anger beneath calm. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 10,
+    "text": "Now, every image triggers a cascade of emotions – a rush of pleasant memories, tinged with a subtle, unsettling sadness.",
+    "prompt": "POV framing — Now, every image triggers a cascade of emotions – a rush of pleasant memories, tinged with a subtle, unsettling sadness. at a bus stop at dusk, with harsh fluorescent glare, with practiced numbness. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 11,
+    "text": "You find yourself lingering, almost desperately, over these snapshots, as if trying to recapture something that simply isn’t there.",
+    "prompt": "Low-angle dramatic frame. The subject find themselves lingering, almost desperately, over these snapshots, as if trying to recapture something that simply isn’t there. rim-lit from a doorway behind, in a laundromat at night, with the erosion of trust. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 12,
+    "text": "The act itself isn’t overtly dramatic, but it’s a deliberate, almost ritualistic engagement with the past.",
+    "prompt": "Reflection shot through glass — The act itself isn’t overtly dramatic, but it’s a deliberate, almost ritualistic engagement with the past. on a park bench in cold air, lit by dim tungsten overhead, with building pressure. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 13,
+    "text": "You begin to analyze each image, searching for clues, for a trigger,",
+    "prompt": "Canted-angle tension frame. The subject begin to analyze each image, searching for clues, for a trigger,. In a parking garage under flickering light, silhouetted against a bright window, with the chill of being watched. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 14,
+    "text": "for a moment that encapsulates the feeling you’re trying to resurrect.",
+    "prompt": "High-angle composition. For a moment that encapsulates the feeling the subject’re trying to resurrect. in fading dusk ambience, in a dim apartment kitchen, with the quiet of a room after an argument. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 15,
+    "text": "You meticulously organize the albums, arranging them by date, by mood, by the specific people captured in the photographs.",
+    "prompt": "Extreme close detail. The subject meticulously organize the albums, arranging them by date, by mood, by the specific people captured in the photographs. under cold monitor-screen glow, in a sparsely furnished living room, with cold emotional distance. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 16,
+    "text": "It’s a comforting, almost obsessive process. You remember a time when you felt a genuine connection to these images,",
+    "prompt": "Insert detail shot. It’s a comforting, almost obsessive process. the subject remember a time when the subject felt a genuine connection to these images,. under muted phone-screen glow, in a narrow hallway, with restrained anger beneath calm. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 17,
+    "text": "a sense of shared joy that wasn't fueled by a need for validation. Now, the memories feel… hollow, distant.",
+    "prompt": "Tight medium shot. A sense of shared joy that wasn't fueled by a need for validation. Now, the memories feel… hollow, distant. On a stairwell landing, with dramatic shadow falloff, with practiced numbness. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 18,
+    "text": "You’re constructing a narrative around these images, creating a comforting illusion of a past that never truly existed.",
+    "prompt": "Static slow-burn frame — The subject’re constructing a narrative around these images, creating a comforting illusion of a past that never truly existed. on a rooftop overlooking the city, in high-contrast side lighting, with uneasy recognition. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 19,
+    "text": "You’re clinging to these snapshots, as if they were the key to unlocking some deeper, unspoken truth. It’s a fragile,",
+    "prompt": "Over-the-shoulder frame — The subject’re clinging to these snapshots, as if they were the key to unlocking some deeper, unspoken truth. It’s a fragile,. in a small bedroom with curtains drawn, lit by dim tungsten overhead, with deliberate coldness. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 20,
+    "text": "desperate attempt to maintain a sense of self in the face of a rapidly shifting reality. # Voice You begin to notice a pattern,",
+    "prompt": "Intimate close-up — Desperate attempt to maintain a sense of self in the face of a rapidly shifting reality. # Voice the subject begin to notice a pattern,. in a cramped bathroom, in grey storm-day window haze, with the erosion of trust. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 21,
+    "text": "a predictable rhythm in your behavior. You always gravitate towards the images of the smiling faces,",
+    "prompt": "Silhouetted wide composition. A predictable rhythm in their behavior. the subject always gravitate towards the images of the smiling faces,. Inside an empty elevator, by moonlight through curtains, with the quiet of a room after an argument. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 22,
+    "text": "the ones who seem to radiate a complete and utter happiness.",
+    "prompt": "Extreme close detail. The ones who seem to radiate a complete and utter happiness. under sodium-vapor streetlamp, in a sparse office, with the chill of being watched. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 23,
+    "text": "You’ve started to rationalize the need to revisit them, to feel the warmth again.",
+    "prompt": "Tight medium shot — The subject’ve started to rationalize the need to revisit them, to feel the warmth again. in a laundromat at night, under cool blue-hour window light, with the sense of a held breath. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 24,
+    "text": "You tell yourself that it’s a way of processing grief, of finding solace in the memory of joy.",
+    "prompt": "High-angle composition. The subject tell themselves that it’s a way of processing grief, of finding solace in the memory of joy. under muted phone-screen glow, on a quiet residential street, with quiet devastation. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 25,
+    "text": "You’ve started to categorize these images – the ones that evoke sadness, the ones that trigger a sense of contentment,",
+    "prompt": "Dutch-angle close shot — The subject’ve started to categorize these images – the ones that evoke sadness, the ones that trigger a sense of contentment,. in a sparsely furnished living room, washed in soft overcast daylight, with cold emotional distance. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 26,
+    "text": "the ones that simply feel… good. You’ve developed a system, a mental framework for understanding these images, a way of quantifying the emotional impact they have.",
+    "prompt": "Over-the-shoulder frame — The ones that simply feel… good. the subject’ve developed a system, a mental framework for understanding these images, a way of quantifying the emotional impact they have. in a parking garage under flickering light, by warm desk-lamp glow, with quiet suffocating tension. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 27,
+    "text": "You’re treating them like a sort of emotional archive, a repository of past happiness.",
+    "prompt": "Silhouetted wide composition. The subject’re treating them like a sort of emotional archive, a repository of past happiness. At a bus stop at dusk, in high-contrast side lighting, with uneasy recognition. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 28,
+    "text": "You feel a strange sense of responsibility, as if you’re guarding these memories,",
+    "prompt": "Reflection shot through glass — The subject feel a strange sense of responsibility, as if the subject’re guarding these memories,. in a small bedroom with curtains drawn, rim-lit from a doorway behind, with the hush before confrontation. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 29,
+    "text": "protecting them from the inevitable pain of loss. You’ve started to isolate yourself from other people, preferring to spend hours alone, lost in the world of these photographs.",
+    "prompt": "Cinematic wide shot — Protecting them from the inevitable pain of loss. the subject’ve started to isolate themselves from other people, preferring to spend hours alone, lost in the world of these photographs. in a cramped bathroom, with harsh fluorescent glare, with the quiet of a room after an argument. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 30,
+    "text": "You’ve become increasingly withdrawn, losing interest in activities that once brought you joy – music, conversation,",
+    "prompt": "Extreme close detail. The subject’ve become increasingly withdrawn, losing interest in activities that once brought the subject joy – music, conversation,. On a rooftop overlooking the city, under muted phone-screen glow, with the sense of a held breath. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 31,
+    "text": "even simple tasks like washing dishes. You realize that this fixation isn’t about remembering; it’s about avoiding something.",
+    "prompt": "Intimate close-up. Even simple tasks like washing dishes. the subject realize that this fixation isn’t about remembering; it’s about avoiding something. In a dim apartment kitchen, with dramatic shadow falloff, with quiet devastation. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 32,
+    "text": "It’s about resisting the inevitable passage of time, the gradual fading of the memories that define your identity.",
+    "prompt": "Side-profile medium shot. It’s about resisting the inevitable passage of time, the gradual fading of the memories that define their identity. under sodium-vapor streetlamp, inside a parked car at night, with quiet suffocating tension. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 33,
+    "text": "You're actively constructing a narrative around these images, a carefully curated collection of moments that you believe will preserve the illusion of a happier past.",
+    "prompt": "POV framing. The subject is actively constructing a narrative around these images, a carefully curated collection of moments that the subject believe will preserve the illusion of a happier past. by moonlight through curtains, in a narrow hallway, with slow dawning realization. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 34,
+    "text": "You’re essentially building a fortress around these images, a space where you can retreat and find a sense of safety.",
+    "prompt": "Back-focused over-shoulder view — The subject’re essentially building a fortress around these images, a space where the subject can retreat and find a sense of safety. at a restaurant table for two, in grey storm-day window haze, with restrained anger beneath calm. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 35,
+    "text": "You’ve started to subtly alter the images themselves, rearranging them, adding small details – a slightly different angle,",
+    "prompt": "Tight medium shot. The subject’ve started to subtly alter the images themselves, rearranging them, adding small details – a slightly different angle,. in candle-lit amber warmth, in a sparse office, with the stillness of aftermath. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 36,
+    "text": "a subtle shift in the lighting. These alterations aren’t conscious; they’re automatic, a byproduct of your obsessive engagement with the past.",
+    "prompt": "Silhouetted wide composition — A subtle shift in the lighting. These alterations aren’t conscious; they’re automatic, a byproduct of their obsessive engagement with the past. in a hospital corridor, under muted phone-screen glow, with uneasy recognition. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 37,
+    "text": "You find yourself analyzing these changes, seeking to find the precise moment that will trigger the most intense emotional response.",
+    "prompt": "Handheld-style documentary frame. The subject find themselves analyzing these changes, seeking to find the precise moment that will trigger the most intense emotional response. top-lit by a bare ceiling fixture, on a quiet residential street, with practiced numbness. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 38,
+    "text": "You’re not simply looking at the images; you’re manipulating them, crafting a version of the past that you’ve idealized.",
+    "prompt": "Insert detail shot. The subject’re not simply looking at the images; the subject’re manipulating them, crafting a version of the past that the subject’ve idealized. Inside a parked car at night, under cold monitor-screen glow, with building pressure. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 39,
+    "text": "You’re building a shrine to these memories, a testament to a time when you felt completely and utterly content.",
+    "prompt": "Reflection shot through glass. The subject’re building a shrine to these memories, a testament to a time when the subject felt completely and utterly content. by warm desk-lamp glow, at a bus stop at dusk, with quiet devastation. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 40,
+    "text": "You're treating these images as a form of self-care, a way of preserving a sense of wholeness. # Voice You begin to notice a subtle shift in your own behavior,",
+    "prompt": "Extreme close detail. The subject is treating these images as a form of self-care, a way of preserving a sense of wholeness. # Voice the subject begin to notice a subtle shift in their own. Inside an empty elevator, by pale morning light through blinds, with slow dawning realization. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 41,
+    "text": "a gradual erosion of your own emotional stability. You used to be a generally optimistic person, quick to laugh, eager to embrace new experiences.",
+    "prompt": "Intimate close-up. A gradual erosion of their own emotional stability. the subject used to be a generally optimistic person, quick to laugh, eager to embrace new experiences. On a stairwell landing, silhouetted against a bright window, with the stillness of aftermath. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 42,
+    "text": "Now, you’re increasingly melancholic, prone to bouts of quiet despair.",
+    "prompt": "Wide establishing view. Now, the subject’re increasingly melancholic, prone to bouts of quiet despair. with dramatic shadow falloff, in a sparsely furnished living room, with the erosion of trust. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 43,
+    "text": "You find yourself losing interest in pursuits that once brought you pleasure – painting, writing, even engaging in intellectual discussions.",
+    "prompt": "Two-person medium frame — The subject find themselves losing interest in pursuits that once brought the subject pleasure – painting, writing, even engaging in intellectual discussions. in a parking garage under flickering light, under sodium-vapor streetlamp, with the chill of being watched. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 44,
+    "text": "You’ve started to withdraw from social interactions, preferring the company of these photographs to the messy,",
+    "prompt": "Cinematic wide shot. The subject’ve started to withdraw from social interactions, preferring the company of these photographs to the messy,. In a laundromat at night, in fading dusk ambience, with deliberate coldness. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 45,
+    "text": "unpredictable reality of human connection. You’ve become acutely aware of your own emotional vulnerabilities,",
+    "prompt": "Chiaroscuro portrait frame — Unpredictable reality of human connection. the subject’ve become acutely aware of their own emotional vulnerabilities,. in a hospital corridor, under yellow hallway sconce, with cold emotional distance. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 46,
+    "text": "acutely aware of how easily you can be triggered by memories of the past.",
+    "prompt": "Over-the-shoulder frame — Acutely aware of how easily the subject can be triggered by memories of the past. in a dim apartment kitchen, washed in soft overcast daylight, with quiet devastation. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 47,
+    "text": "You’ve started to engage in self-deprecating thoughts, a constant stream of self-criticism that feels incredibly draining.",
+    "prompt": "Extreme close detail. The subject’ve started to engage in self-deprecating thoughts, a constant stream of self-criticism that feels incredibly draining. silhouetted against a bright window, at a restaurant table for two, with building pressure. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 48,
+    "text": "You’re experiencing a heightened sense of anxiety, a persistent feeling that something is wrong,",
+    "prompt": "Intimate close-up. The subject’re experiencing a heightened sense of anxiety, a persistent feeling that something is wrong,. In a sparsely furnished living room, in grey storm-day window haze, with the erosion of trust. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 49,
+    "text": "that you’re not fully present in the moment. You find yourself seeking out moments of solitude, retreating into your own thoughts,",
+    "prompt": "Back-focused over-shoulder view. That the subject’re not fully present in the moment. the subject find themselves seeking out moments of solitude, retreating into their own thoughts,. in candle-lit amber warmth, on a quiet residential street, with the chill of being watched. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 50,
+    "text": "attempting to create a sense of detachment from the outside world.",
+    "prompt": "Canted-angle tension frame — Attempting to create a sense of detachment from the outside world. in a narrow hallway, with harsh fluorescent glare, with quiet suffocating tension. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 51,
+    "text": "You’re acutely aware of the feeling of being watched, of being observed, of being scrutinized.",
+    "prompt": "Insert detail shot. The subject’re acutely aware of the feeling of being watched, of being observed, of being scrutinized. In a laundromat at night, lit by dim tungsten overhead, with the hush before confrontation. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 52,
+    "text": "You’ve started to obsess over your appearance, meticulously arranging your clothes, adjusting your hair, ensuring that you present a polished,",
+    "prompt": "Cinematic wide shot. The subject’ve started to obsess over their appearance, meticulously arranging their clothes, adjusting their hair, ensuring that the subject present a polished,. by warm desk-lamp glow, inside a parked car at night, with cold emotional distance. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 53,
+    "text": "idealized version of yourself. You’re essentially constructing a façade, a carefully curated image of yourself designed to elicit a particular response from others.",
+    "prompt": "POV framing — Idealized version of themselves. the subject’re essentially constructing a façade, a carefully curated image of themselves designed to elicit a particular response from others. in a parking garage under flickering light, silhouetted against a bright window, with the sense of a held breath. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 54,
+    "text": "You’re prioritizing outward appearances over genuine emotional connection, creating a bubble of self-absorption.",
+    "prompt": "Low-angle dramatic frame. The subject’re prioritizing outward appearances over genuine emotional connection, creating a bubble of self-absorption. under muted phone-screen glow, on a park bench in cold air, with quiet devastation. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 55,
+    "text": "You're becoming increasingly isolated, retreating into a world of your own making, a world where you can control the narrative,",
+    "prompt": "Intimate close-up. The subject is becoming increasingly isolated, retreating into a world of their own making, a world where the subject can control the narrative,. In a cramped bathroom, rim-lit from a doorway behind, with deliberate coldness. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 56,
+    "text": "where you can dictate the terms of your own experience.",
+    "prompt": "Two-person medium frame. Where the subject can dictate the terms of their own experience. in high-contrast side lighting, at a restaurant table for two, with quiet suffocating tension. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 57,
+    "text": "You are actively constructing a narrative of yourself, a version of yourself that is both familiar and profoundly artificial.",
+    "prompt": "Over-the-shoulder frame. The subject is actively constructing a narrative of themselves, a version of themselves that is both familiar and profoundly artificial. In a sparse office, under yellow hallway sconce, with building pressure. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 58,
+    "text": "You are attempting to recapture a lost sense of self,",
+    "prompt": "High-angle composition. The subject is attempting to recapture a lost sense of self,. in low-key shadow with one practical lamp, inside a parked car at night, with slow dawning realization. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 59,
+    "text": "to solidify a sense of identity through the accumulation of these carefully selected memories.",
+    "prompt": "Reflection shot through glass. To solidify a sense of identity through the accumulation of these carefully selected memories. under cool blue-hour window light, on a stairwell landing, with the stillness of aftermath. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 60,
+    "text": "You are becoming a collector, a curator of past moments, a guardian of a world of your own making.",
+    "prompt": "Static slow-burn frame — The subject is becoming a collector, a curator of past moments, a guardian of a world of their own making. on a park bench in cold air, by moonlight through curtains, with the weight of unspoken words. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 61,
+    "text": "You’ve started to feel a strange sense of ownership over these images,",
+    "prompt": "Chiaroscuro portrait frame. The subject’ve started to feel a strange sense of ownership over these images,. under sodium-vapor streetlamp, on a quiet residential street, with restrained anger beneath calm. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 62,
+    "text": "as if you’re the sole interpreter of their meaning. You’re treating them as a form of validation, a way of asserting your own identity.",
+    "prompt": "Two-person medium frame — As if the subject’re the sole interpreter of their meaning. the subject’re treating them as a form of validation, a way of asserting their own identity. in a laundromat at night, with harsh fluorescent glare, with the erosion of trust. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 63,
+    "text": "You’re creating a shrine to your past, a testament to a time when you felt completely and utterly secure.",
+    "prompt": "Tight medium shot — The subject’re creating a shrine to their past, a testament to a time when the subject felt completely and utterly secure. on a rooftop overlooking the city, under yellow hallway sconce, with the quiet of a room after an argument. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 64,
+    "text": "You’re building a fortress around these images, a space where you can retreat and find a sense of comfort.",
+    "prompt": "Back-focused over-shoulder view. The subject’re building a fortress around these images, a space where the subject can retreat and find a sense of comfort. On a fire escape above an alley, in candle-lit amber warmth, with cold emotional distance. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 65,
+    "text": "You're actively engaging in a process of self-preservation, a desperate attempt to maintain a sense of self in the face of an increasingly uncertain future.",
+    "prompt": "Side-profile medium shot. The subject is actively engaging in a process of self-preservation, a desperate attempt to maintain a sense of self in the face of an increasingly uncertain future. In a sparsely furnished living room, in grey storm-day window haze, with quiet suffocating tension. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 66,
+    "text": "You are becoming a collector, a curator of past moments, a guardian of a world of your own making.",
+    "prompt": "Static slow-burn frame — The subject is becoming a collector, a curator of past moments, a guardian of a world of their own making. on a park bench in cold air, by moonlight through curtains, with deliberate coldness. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 67,
+    "text": "You’ve started to feel a strange sense of ownership over these images,",
+    "prompt": "Chiaroscuro portrait frame. The subject’ve started to feel a strange sense of ownership over these images,. in high-contrast side lighting, inside a parked car at night, with restrained anger beneath calm. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 68,
+    "text": "as if you’re the sole interpreter of their meaning. You’re treating them as a form of validation, a way of asserting your own identity.",
+    "prompt": "Two-person medium frame — As if the subject’re the sole interpreter of their meaning. the subject’re treating them as a form of validation, a way of asserting their own identity. in a laundromat at night, under cool blue-hour window light, with building pressure. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 69,
+    "text": "You’re building a fortress around these images, a space where you can retreat and find a sense of comfort.",
+    "prompt": "Silhouetted wide composition. The subject’re building a fortress around these images, a space where the subject can retreat and find a sense of comfort. In a parking garage under flickering light, by pale morning light through blinds, with the sense of a held breath. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 70,
+    "text": "You’re actively engaging in a process of self-preservation, a desperate attempt to maintain a sense of self in the face of an increasingly uncertain future.",
+    "prompt": "Over-the-shoulder frame — The subject’re actively engaging in a process of self-preservation, a desperate attempt to maintain a sense of self in the face of an increasingly uncertain future. on a stairwell landing, washed in soft overcast daylight, with uneasy recognition. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 71,
+    "text": "You’ve been meticulously sorting through photographs – mostly of faces, mostly of people you don’t recognize.",
+    "prompt": "Dutch-angle close shot — The subject’ve been meticulously sorting through photographs – mostly of faces, mostly of people the subject don’t recognize. at a doorway threshold, silhouetted against a bright window, with slow dawning realization. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 72,
+    "text": "It started subtly, a few images here and there, a fleeting feeling of… recognition.",
+    "prompt": "Handheld-style documentary frame. It started subtly, a few images here and there, a fleeting feeling of… recognition. in low-key shadow with one practical lamp, in a dim apartment kitchen, with the stillness of aftermath. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 73,
+    "text": "Now, the volume is considerable, a carefully constructed archive of moments that feel both intensely personal and utterly detached.",
+    "prompt": "Tight medium shot. Now, the volume is considerable, a carefully constructed archive of moments that feel both intensely personal and utterly detached. On a rooftop overlooking the city, top-lit by a bare ceiling fixture, with practiced numbness. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 74,
+    "text": "You’ve been isolating them, placing them in a digital space, meticulously arranging them on a single, large screen.",
+    "prompt": "Two-person medium frame — The subject’ve been isolating them, placing them in a digital space, meticulously arranging them on a single, large screen. in a sparsely furnished living room, in fading dusk ambience, with the hush before confrontation. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 75,
+    "text": "It’s a compulsion, a need to control the narrative of your own existence,",
+    "prompt": "Wide establishing view. It’s a compulsion, a need to control the narrative of their own existence,. In a sparse office, by moonlight through curtains, with the quiet of a room after an argument. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 76,
+    "text": "to solidify a place where you don’t feel vulnerable. You notice a pattern, a subtle shift in the composition of each image.",
+    "prompt": "Chiaroscuro portrait frame. To solidify a place where the subject don’t feel vulnerable. the subject notice a pattern, a subtle shift in the composition of each image. Inside an empty elevator, under sodium-vapor streetlamp, with uneasy recognition. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 77,
+    "text": "You’re focusing on eyes – a particular shade of blue, a slightly downturned mouth.",
+    "prompt": "Cinematic wide shot. The subject’re focusing on eyes – a particular shade of blue, a slightly downturned mouth. silhouetted against a bright window, on a quiet residential street, with the chill of being watched. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 78,
+    "text": "It’s a deliberate choice, a way of drawing attention to a specific emotion, a particular expression.",
+    "prompt": "Insert detail shot — It’s a deliberate choice, a way of drawing attention to a specific emotion, a particular expression. in a cramped bathroom, with harsh fluorescent glare, with slow dawning realization. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 79,
+    "text": "You're not just looking at the faces, you’re analyzing them, cataloging them,",
+    "prompt": "Intimate close-up. The subject is not just looking at the faces, the subject’re analyzing them, cataloging them,. under cool blue-hour window light, at a bus stop at dusk, with the sense of a held breath. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 80,
+    "text": "constructing a psychological profile based on the smallest details. You’ve been spending hours, days even, tracing the contours of the images, almost losing track of time.",
+    "prompt": "Reflection shot through glass. Constructing a psychological profile based on the smallest details. the subject’ve been spending hours, days even, tracing the contours of the images, almost losing track of time. In a grocery aisle late at night, rim-lit from a doorway behind, with deliberate coldness. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 81,
+    "text": "It’s a habit, a ritual, a way to impose order on chaos. You’re building a framework,",
+    "prompt": "Dutch-angle close shot — It’s a habit, a ritual, a way to impose order on chaos. the subject’re building a framework,. in a sparse office, under muted phone-screen glow, with quiet suffocating tension. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 82,
+    "text": "a system of understanding that offers a sense of stability in a world that feels increasingly fluid and unpredictable.",
+    "prompt": "Extreme close detail. A system of understanding that offers a sense of stability in a world that feels increasingly fluid and unpredictable. On a rooftop overlooking the city, in grey storm-day window haze, with cold emotional distance. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 83,
+    "text": "You’ve started to notice something else, a strange resonance with certain images. A photograph of a child, perhaps, laughing.",
+    "prompt": "Low-angle dramatic frame. The subject’ve started to notice something else, a strange resonance with certain images. A photograph of a child, perhaps, laughing. in low-key shadow with one practical lamp, in a parking garage under flickering light, with restrained anger beneath calm. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 84,
+    "text": "It doesn’t elicit a surge of warmth, not exactly. Instead, a small, unsettling feeling of… expectation.",
+    "prompt": "Side-profile medium shot. It doesn’t elicit a surge of warmth, not exactly. Instead, a small, unsettling feeling of… expectation. by moonlight through curtains, on a quiet residential street, with uneasy recognition. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 85,
+    "text": "You find yourself instinctively reaching for these images when you’re feeling anxious, overwhelmed, or simply lost.",
+    "prompt": "Silhouetted wide composition. The subject find themselves instinctively reaching for these images when the subject’re feeling anxious, overwhelmed, or simply lost. in candle-lit amber warmth, inside an empty elevator, with the weight of unspoken words. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 86,
+    "text": "It’s a subconscious attempt to recreate a feeling of safety, of control,",
+    "prompt": "Two-person medium frame. It’s a subconscious attempt to recreate a feeling of safety, of control,. In a small bedroom with curtains drawn, rim-lit from a doorway behind, with deliberate coldness. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 87,
+    "text": "that you don’t consciously realize you’re trying to achieve. You’re not actively seeking this feeling, you’re simply… replicating it.",
+    "prompt": "Canted-angle tension frame. That the subject don’t consciously realize the subject’re trying to achieve. the subject’re not actively seeking this feeling, the subject’re simply… replicating it. In a narrow hallway, under sodium-vapor streetlamp, with building pressure. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 88,
+    "text": "You begin to understand, with a chilling clarity, that this isn’t about the images themselves,",
+    "prompt": "Intimate close-up. The subject begin to understand, with a chilling clarity, that this isn’t about the images themselves,. In a sparsely furnished living room, washed in soft overcast daylight, with the sense of a held breath. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 89,
+    "text": "but about the of creating them. The act of framing, of arranging, of projecting a carefully constructed narrative.",
+    "prompt": "Cinematic wide shot. But about the of creating them. The act of framing, of arranging, of projecting a carefully constructed narrative. Inside a parked car at night, with harsh fluorescent glare, with the quiet of a room after an argument. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 90,
+    "text": "The initial thrill of creating these digital representations has slowly morphed into a deeper, more unsettling awareness.",
+    "prompt": "Static slow-burn frame — The initial thrill of creating these digital representations has slowly morphed into a deeper, more unsettling awareness. in a sparse office, in low-key shadow with one practical lamp, with practiced numbness. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 91,
+    "text": "You’ve begun to suspect that these images aren’t simply artifacts of the past; they’re a form of self-documentation,",
+    "prompt": "Tight medium shot. The subject’ve begun to suspect that these images aren’t simply artifacts of the past; they’re a form of self-documentation,. with dramatic shadow falloff, on a fire escape above an alley, with the weight of unspoken words. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 92,
+    "text": "a desperate attempt to leave a trace of yourself, a footprint in the digital wilderness.",
+    "prompt": "Over-the-shoulder frame. A desperate attempt to leave a trace of themselves, a footprint in the digital wilderness. On a quiet residential street, rim-lit from a doorway behind, with restrained anger beneath calm. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 93,
+    "text": "You've started to realize that you’re not simply collecting memories, you're building a shrine to your own sense of self,",
+    "prompt": "Silhouetted wide composition. The subject has started to realize that the subject’re not simply collecting memories, the subject is building a shrine to their own sense of self,. by pale morning light through blinds, inside an empty elevator, with slow dawning realization. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 94,
+    "text": "a monument to a time when you felt utterly secure.",
+    "prompt": "Canted-angle tension frame — A monument to a time when the subject felt utterly secure. in a narrow hallway, lit by dim tungsten overhead, with the hush before confrontation. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 95,
+    "text": "You're creating a fortress around your past, a space where you can retreat and find a sense of comfort,",
+    "prompt": "Back-focused over-shoulder view. The subject is creating a fortress around their past, a space where the subject can retreat and find a sense of comfort,. by warm desk-lamp glow, in a small bedroom with curtains drawn, with the quiet of a room after an argument. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 96,
+    "text": "but it’s a comfort born from a profound and unsettling isolation.",
+    "prompt": "High-angle composition. But it’s a comfort born from a profound and unsettling isolation. by moonlight through curtains, on a stairwell landing, with uneasy recognition. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 97,
+    "text": "You've been experimenting with the arrangement, subtly altering the framing, the lighting, the colors.",
+    "prompt": "Wide establishing view — The subject has been experimenting with the arrangement, subtly altering the framing, the lighting, the colors. on a park bench in cold air, in grey storm-day window haze, with quiet suffocating tension. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 98,
+    "text": "You’re using filters, adjusting the saturation, making tiny adjustments to the composition that seem almost… deliberate.",
+    "prompt": "Handheld-style documentary frame. The subject’re using filters, adjusting the saturation, making tiny adjustments to the composition that seem almost… deliberate. in candle-lit amber warmth, in a cramped bathroom, with the stillness of aftermath. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 99,
+    "text": "It’s a form of self-correction, a way of subtly reshaping the narrative of your own existence.",
+    "prompt": "Intimate close-up — It’s a form of self-correction, a way of subtly reshaping the narrative of their own existence. in a sparse office, in fading dusk ambience, with restrained anger beneath calm. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 100,
+    "text": "You’re not trying to create a perfect representation, but a version of yourself,",
+    "prompt": "Extreme close detail. The subject’re not trying to create a perfect representation, but a version of themselves,. under cold monitor-screen glow, on a quiet residential street, with deliberate coldness. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 101,
+    "text": "a carefully curated version that feels both familiar and profoundly alien.",
+    "prompt": "Silhouetted wide composition. A carefully curated version that feels both familiar and profoundly alien. In a narrow hallway, with dramatic shadow falloff, with the sense of a held breath. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 102,
+    "text": "You're treating these images as a form of validation, a way of asserting your own identity,",
+    "prompt": "Chiaroscuro portrait frame. The subject is treating these images as a form of validation, a way of asserting their own identity,. in low-key shadow with one practical lamp, inside an empty elevator, with uneasy recognition. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 103,
+    "text": "but the validation is increasingly tenuous, a fragile edifice built on a foundation of carefully constructed narratives.",
+    "prompt": "Static slow-burn frame. But the validation is increasingly tenuous, a fragile edifice built on a foundation of carefully constructed narratives. In a grocery aisle late at night, by pale morning light through blinds, with the weight of unspoken words. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 104,
+    "text": "You’ve started to notice a recurring motif – a small, almost imperceptible smile.",
+    "prompt": "Cinematic wide shot. The subject’ve started to notice a recurring motif – a small, almost imperceptible smile. in grey storm-day window haze, in a dim apartment kitchen, with cold emotional distance. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 105,
+    "text": "You’ve been deliberately placing these images next to each other, creating fleeting juxtapositions that don’t necessarily create a coherent image,",
+    "prompt": "Tight medium shot. The subject’ve been deliberately placing these images next to each other, creating fleeting juxtapositions that don’t necessarily create a coherent image,. At a restaurant table for two, lit by dim tungsten overhead, with quiet suffocating tension. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 106,
+    "text": "but rather a sense of tension. A slight shift in the arrangement, a subtle alteration in the lighting, and the image subtly shifts,",
+    "prompt": "Insert detail shot. But rather a sense of tension. A slight shift in the arrangement, a subtle alteration in the lighting, and the image subtly shifts,. under cool blue-hour window light, in a parking garage under flickering light, with the stillness of aftermath. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 107,
+    "text": "almost as if it’s responding to your attempts to control it.",
+    "prompt": "Wide establishing view. Almost as if it’s responding to their attempts to control it. On a quiet residential street, washed in soft overcast daylight, with the sense of a held breath. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 108,
+    "text": "You've begun to suspect that these images aren’t just passively reacting to you,",
+    "prompt": "Intimate close-up. The subject has begun to suspect that these images aren’t just passively reacting to the subject,. in low-key shadow with one practical lamp, in a cramped bathroom, with restrained anger beneath calm. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 109,
+    "text": "but actively participating in the process of your self-preservation. You're creating a feedback loop, a symbiotic relationship where your actions are subtly shaping the images, and the images,",
+    "prompt": "Two-person medium frame. But actively participating in the process of their self-preservation. the subject is creating a feedback loop, a symbiotic relationship where their actions are subtly shaping the images, and the images,. In a sparsely furnished living room, under cold monitor-screen glow, with the quiet of a room after an argument. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 110,
+    "text": "in turn, subtly shaping your perception of yourself. You're now experimenting with a new technique – layering the images, subtly overlapping them,",
+    "prompt": "Static slow-burn frame — In turn, subtly shaping their perception of themselves. the subject is now experimenting with a new technique – layering the images, subtly overlapping them,. inside an empty elevator, in high-contrast side lighting, with the hush before confrontation. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 111,
+    "text": "creating a sense of depth and complexity. You’re using a technique you’ve been developing, a way of subtly manipulating the viewer’s perception of the images,",
+    "prompt": "Reflection shot through glass — Creating a sense of depth and complexity. the subject’re using a technique the subject’ve been developing, a way of subtly manipulating the viewer’s perception of the images,. on a stairwell landing, with dramatic shadow falloff, with the erosion of trust. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 112,
+    "text": "making them feel like they’re looking at a collection of fragmented memories, a distorted reflection of your own mind.",
+    "prompt": "Back-focused over-shoulder view — Making them feel like they’re looking at a collection of fragmented memories, a distorted reflection of their own mind. in a narrow hallway, in fading dusk ambience, with uneasy recognition. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 113,
+    "text": "You’re not trying to create a coherent narrative, but rather a series of evocative images that trigger a specific emotional response, a subconscious echo of your own past.",
+    "prompt": "Chiaroscuro portrait frame. The subject’re not trying to create a coherent narrative, but rather a series of evocative images that trigger a specific emotional response, a subconscious echo of their own past. in grey storm-day window haze, in a sparse office, with quiet suffocating tension. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 114,
+    "text": "You've been doing this for hours, lost in the intricate dance of arrangement, the subtle manipulation of light and shadow.",
+    "prompt": "Cinematic wide shot — The subject has been doing this for hours, lost in the intricate dance of arrangement, the subtle manipulation of light and shadow. at a bus stop at dusk, top-lit by a bare ceiling fixture, with building pressure. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 115,
+    "text": "The initial thrill of creation has faded, replaced by a weary sense of obsession.",
+    "prompt": "Intimate close-up. The initial thrill of creation has faded, replaced by a weary sense of obsession. with harsh fluorescent glare, on a rooftop overlooking the city, with quiet devastation. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 116,
+    "text": "It's a compulsion, a need to control the narrative of your own existence, to impose order on chaos,",
+    "prompt": "POV framing. It's a compulsion, a need to control the narrative of their own existence, to impose order on chaos,. In a hospital corridor, silhouetted against a bright window, with the sense of a held breath. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 117,
+    "text": "to create a space where you don't feel vulnerable. You’ve realized that the act of arranging these images isn’t just about creating a visual display;",
+    "prompt": "Tight medium shot. To create a space where the subject don't feel vulnerable. the subject’ve realized that the act of arranging these images isn’t just about creating a visual display;. In a laundromat at night, lit by dim tungsten overhead, with the erosion of trust. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 118,
+    "text": "it’s about creating a space, a sanctuary, a refuge from the uncertainties of the world.",
+    "prompt": "Handheld-style documentary frame. It’s about creating a space, a sanctuary, a refuge from the uncertainties of the world. In a small bedroom with curtains drawn, washed in soft overcast daylight, with cold emotional distance. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 119,
+    "text": "You’re building a fortress around your past, a space where you can retreat and find a sense of comfort,",
+    "prompt": "Wide establishing view. The subject’re building a fortress around their past, a space where the subject can retreat and find a sense of comfort,. In a dim apartment kitchen, with dramatic shadow falloff, with restrained anger beneath calm. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 120,
+    "text": "but it’s a comfort born from a profound and unsettling isolation.",
+    "prompt": "High-angle composition. But it’s a comfort born from a profound and unsettling isolation. by moonlight through curtains, on a stairwell landing, with uneasy recognition. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 121,
+    "text": "The images aren’t just passively being displayed; they're actively participating in the process of your self-preservation,",
+    "prompt": "Extreme close detail — The images aren’t just passively being displayed; they're actively participating in the process of their self-preservation,. at a bus stop at dusk, by warm desk-lamp glow, with building pressure. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 122,
+    "text": "subtly reshaping your perception of yourself, creating a feedback loop that reinforces your own sense of identity.",
+    "prompt": "Canted-angle tension frame. Subtly reshaping their perception of themselves, creating a feedback loop that reinforces their own sense of identity. under muted phone-screen glow, in a hospital corridor, with slow dawning realization. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 123,
+    "text": "You’re becoming a curator, not of objects, but of memories, of emotions, of a carefully constructed self.",
+    "prompt": "Back-focused over-shoulder view. The subject’re becoming a curator, not of objects, but of memories, of emotions, of a carefully constructed self. In a laundromat at night, in grey storm-day window haze, with quiet suffocating tension. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 124,
+    "text": "The question now isn't just images you’re collecting, but .",
+    "prompt": "Low-angle dramatic frame. The question now isn't just images the subject’re collecting, but . On a quiet residential street, rim-lit from a doorway behind, with practiced numbness. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 125,
+    "text": "What need are you fulfilling, what sense of security are you desperately attempting to create?",
+    "prompt": "Over-the-shoulder frame. What need are the subject fulfilling, what sense of security are the subject desperately attempting to create? silhouetted against a bright window, on a fire escape above an alley, with the sense of a held breath. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 126,
+    "text": "And what happens when the fortress begins to crumble? You carry yourself with a quiet, almost brittle, stillness.",
+    "prompt": "Two-person medium frame. And what happens when the fortress begins to crumble? the subject carry themselves with a quiet, almost brittle, stillness. with harsh fluorescent glare, on a stairwell landing, with restrained anger beneath calm. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 127,
+    "text": "You’re meticulously arranging objects – stones, feathers, bits of faded fabric – in a small, circular space,",
+    "prompt": "Extreme close detail. The subject’re meticulously arranging objects – stones, feathers, bits of faded fabric – in a small, circular space,. On a rooftop overlooking the city, in high-contrast side lighting, with uneasy recognition. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 128,
+    "text": "a space you’ve designated your ‘sanctuary.’ It’s surprisingly devoid of dust or any visible wear,",
+    "prompt": "POV framing. A space the subject’ve designated their ‘sanctuary.’ It’s surprisingly devoid of dust or any visible wear,. in candle-lit amber warmth, at a doorway threshold, with slow dawning realization. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 129,
+    "text": "a testament to its deliberate emptiness. You trace the contours of a particularly smooth, grey stone with your thumb, a slow, deliberate movement.",
+    "prompt": "High-angle composition. A testament to its deliberate emptiness. the subject trace the contours of a particularly smooth, grey stone with their thumb, a slow, deliberate movement. under sodium-vapor streetlamp, in a sparsely furnished living room, with deliberate coldness. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 130,
+    "text": "You’ve been doing this for… well, it’s been a long time. A significant amount of time.",
+    "prompt": "Wide establishing view. The subject’ve been doing this for… well, it’s been a long time. A significant amount of time. washed in soft overcast daylight, in a small bedroom with curtains drawn, with the weight of unspoken words. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 131,
+    "text": "You’re not trying to explain it, not really. It’s more a matter of… maintaining. Maintaining a fragile equilibrium.",
+    "prompt": "Handheld-style documentary frame. The subject’re not trying to explain it, not really. It’s more a matter of… maintaining. Maintaining a fragile equilibrium. In a parking garage under flickering light, by pale morning light through blinds, with quiet devastation. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 132,
+    "text": "You notice a subtle shift in the arrangement of the stones – a slight tilt, a deliberate misalignment.",
+    "prompt": "Dutch-angle close shot. The subject notice a subtle shift in the arrangement of the stones – a slight tilt, a deliberate misalignment. In a narrow hallway, with harsh fluorescent glare, with the erosion of trust. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 133,
+    "text": "It’s barely perceptible, almost a phantom gesture, but it triggers a peculiar response within you.",
+    "prompt": "Reflection shot through glass. It’s barely perceptible, almost a phantom gesture, but it triggers a peculiar response within the subject. Inside an empty elevator, with dramatic shadow falloff, with the hush before confrontation. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 134,
+    "text": "You instinctively reach for a small, smooth shard of obsidian, turning it over and over in your fingers.",
+    "prompt": "Tight medium shot. The subject instinctively reach for a small, smooth shard of obsidian, turning it over and over in their fingers. At a bus stop at dusk, in candle-lit amber warmth, with quiet suffocating tension. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 135,
+    "text": "It feels cold, strangely familiar. It’s a remnant of something… lost.",
+    "prompt": "Chiaroscuro portrait frame. It feels cold, strangely familiar. It’s a remnant of something… lost. In a laundromat at night, by warm desk-lamp glow, with restrained anger beneath calm. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 136,
+    "text": "A memory, perhaps, of a time when you felt a stronger, more defined sense of self.",
+    "prompt": "Cinematic wide shot — A memory, perhaps, of a time when the subject felt a stronger, more defined sense of self. in a dim apartment kitchen, silhouetted against a bright window, with the sense of a held breath. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 137,
+    "text": "You begin to focus on the sensation of the cool stone in your hand, a small,",
+    "prompt": "Side-profile medium shot. The subject begin to focus on the sensation of the cool stone in their hand, a small,. On a quiet residential street, under cool blue-hour window light, with deliberate coldness. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 138,
+    "text": "almost involuntary tightening of your jaw. It’s a reflex, a habit you’ve cultivated, a mechanism designed to anchor you to the present.",
+    "prompt": "Intimate close-up. Almost involuntary tightening of their jaw. It’s a reflex, a habit the subject’ve cultivated, a mechanism designed to anchor the subject to the present. On a stairwell landing, in high-contrast side lighting, with the quiet of a room after an argument. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 139,
+    "text": "It’s a way of resisting the inevitable currents of… what? You don’t know.",
+    "prompt": "Insert detail shot. It’s a way of resisting the inevitable currents of… what? the subject don’t know. under sodium-vapor streetlamp, on a park bench in cold air, with slow dawning realization. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 140,
+    "text": "It’s a question you constantly wrestle with, a ghost in the periphery of your awareness.",
+    "prompt": "Reflection shot through glass. It’s a question the subject constantly wrestle with, a ghost in the periphery of their awareness. On a rooftop overlooking the city, in candle-lit amber warmth, with the hush before confrontation. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 141,
+    "text": "You find yourself picking up a handful of feathers, a collection of dull, muted colours.",
+    "prompt": "Two-person medium frame. The subject find themselves picking up a handful of feathers, a collection of dull, muted colours. At a restaurant table for two, top-lit by a bare ceiling fixture, with the erosion of trust. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 142,
+    "text": "You arrange them in a loose spiral on a small, flat stone,",
+    "prompt": "Handheld-style documentary frame — The subject arrange them in a loose spiral on a small, flat stone,. in a small bedroom with curtains drawn, in grey storm-day window haze, with the weight of unspoken words. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 143,
+    "text": "a pattern that seems to shift and rearrange itself with your breath.",
+    "prompt": "Tight medium shot. A pattern that seems to shift and rearrange itself with their breath. by pale morning light through blinds, in a dim apartment kitchen, with cold emotional distance. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 144,
+    "text": "It's an attempt to create order, to impose a semblance of control on the chaos of your thoughts.",
+    "prompt": "Wide establishing view. It's an attempt to create order, to impose a semblance of control on the chaos of their thoughts. in fading dusk ambience, on a quiet residential street, with the chill of being watched. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 145,
+    "text": "You unconsciously smooth down a stray feather, a tiny, almost imperceptible movement.",
+    "prompt": "Over-the-shoulder frame. The subject unconsciously smooth down a stray feather, a tiny, almost imperceptible movement. At a bus stop at dusk, lit by dim tungsten overhead, with restrained anger beneath calm. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 146,
+    "text": "It’s a compulsion, a way to minimize the feeling of… disintegration. You’re not consciously trying to create beauty, not really.",
+    "prompt": "Reflection shot through glass. It’s a compulsion, a way to minimize the feeling of… disintegration. the subject’re not consciously trying to create beauty, not really. under cold monitor-screen glow, in a narrow hallway, with the hush before confrontation. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 147,
+    "text": "You’re simply attempting to impose a boundary, a physical representation of the space you’ve created.",
+    "prompt": "Intimate close-up. The subject’re simply attempting to impose a boundary, a physical representation of the space the subject’ve created. under cool blue-hour window light, on a stairwell landing, with the stillness of aftermath. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 148,
+    "text": "You’re building a wall, brick by small, insignificant brick. You pause, holding the obsidian shard in your palm.",
+    "prompt": "Static slow-burn frame — The subject’re building a wall, brick by small, insignificant brick. the subject pause, holding the obsidian shard in their palm. in a sparse office, silhouetted against a bright window, with quiet suffocating tension. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 149,
+    "text": "It feels heavy, almost unbearably so. You look at it, and for a moment, you see a flicker of something – a ghost of a face,",
+    "prompt": "Dutch-angle close shot — It feels heavy, almost unbearably so. the subject look at it, and for a moment, the subject see a flicker of something – a ghost of a face,. inside an empty elevator, washed in soft overcast daylight, with building pressure. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 150,
+    "text": "a fleeting image of a younger version of yourself, carefree and unburdened.",
+    "prompt": "Silhouetted wide composition. A fleeting image of a younger version of themselves, carefree and unburdened. in candle-lit amber warmth, on a park bench in cold air, with the erosion of trust. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 151,
+    "text": "It’s a momentary return to a time when you felt… complete.",
+    "prompt": "Back-focused over-shoulder view — It’s a momentary return to a time when the subject felt… complete. in a dim apartment kitchen, in high-contrast side lighting, with quiet devastation. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 152,
+    "text": "A feeling of absolute certainty, of knowing exactly who you were and what you wanted.",
+    "prompt": "Extreme close detail. A feeling of absolute certainty, of knowing exactly who the subject were and what the subject wanted. with harsh fluorescent glare, in a grocery aisle late at night, with the hush before confrontation. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 153,
+    "text": "The memory is both comforting and profoundly unsettling. You start to repeat a mantra, almost a whisper, in your head: “You are safe.” A vocalized affirmation,",
+    "prompt": "Reflection shot through glass. The memory is both comforting and profoundly unsettling. the subject start to repeat a mantra, almost a whisper, in their head: “the subject is safe.” A vocalized affirmation,. top-lit by a bare ceiling fixture, at a restaurant table for two, with the chill of being watched. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 154,
+    "text": "a desperate attempt to ward off the encroaching sense of vulnerability.",
+    "prompt": "Canted-angle tension frame. A desperate attempt to ward off the encroaching sense of vulnerability. In a sparsely furnished living room, by pale morning light through blinds, with uneasy recognition. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 155,
+    "text": "It’s a futile gesture, a small shield against the abyss.",
+    "prompt": "Insert detail shot. It’s a futile gesture, a small shield against the abyss. under muted phone-screen glow, at a doorway threshold, with the weight of unspoken words. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 156,
+    "text": "You begin to measure the stones, using a small, worn piece of slate as a ruler.",
+    "prompt": "Static slow-burn frame. The subject begin to measure the stones, using a small, worn piece of slate as a ruler. On a park bench in cold air, silhouetted against a bright window, with restrained anger beneath calm. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 157,
+    "text": "The measurement is precise, almost obsessive. You’re not calculating anything in particular, just… quantifying.",
+    "prompt": "High-angle composition. The measurement is precise, almost obsessive. the subject’re not calculating anything in particular, just… quantifying. in grey storm-day window haze, inside an empty elevator, with cold emotional distance. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 158,
+    "text": "Quantifying the space, quantifying the feeling of being contained. You move your hand, tracing the outline of a particularly large, irregularly shaped stone.",
+    "prompt": "Side-profile medium shot. Quantifying the space, quantifying the feeling of being contained. the subject move their hand, tracing the outline of a particularly large, irregularly shaped stone. by moonlight through curtains, at a bus stop at dusk, with quiet suffocating tension. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 159,
+    "text": "It looks like a fragment of a mountain, or perhaps a piece of a forgotten landscape.",
+    "prompt": "Two-person medium frame — It looks like a fragment of a mountain, or perhaps a piece of a forgotten landscape. in a laundromat at night, in fading dusk ambience, with the sense of a held breath. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 160,
+    "text": "You find yourself instinctively reaching out to touch it, but then quickly retract your hand.",
+    "prompt": "Handheld-style documentary frame — The subject find themselves instinctively reaching out to touch it, but then quickly retract their hand. on a stairwell landing, with dramatic shadow falloff, with uneasy recognition. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 161,
+    "text": "A physical barrier, a conscious choice to remain detached. You notice a faint, almost invisible scratch on the stone's surface – a subtle imperfection, a mark of time.",
+    "prompt": "Reflection shot through glass. A physical barrier, a conscious choice to remain detached. the subject notice a faint, almost invisible scratch on the stone's surface – a subtle imperfection, a mark of time. under yellow hallway sconce, on a rooftop overlooking the city, with the stillness of aftermath. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 162,
+    "text": "It seems to shift slightly as you observe it, almost as if it’s reacting to your gaze.",
+    "prompt": "POV framing. It seems to shift slightly as the subject observe it, almost as if it’s reacting to their gaze. lit by dim tungsten overhead, in a small bedroom with curtains drawn, with slow dawning realization. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 163,
+    "text": "You feel a surge of… frustration. Not anger, not really.",
+    "prompt": "High-angle composition — The subject feel a surge of… frustration. Not anger, not really. in a parking garage under flickering light, in high-contrast side lighting, with restrained anger beneath calm. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 164,
+    "text": "More like a dull, persistent ache, a feeling that something is fundamentally wrong.",
+    "prompt": "Insert detail shot. More like a dull, persistent ache, a feeling that something is fundamentally wrong. silhouetted against a bright window, on a park bench in cold air, with deliberate coldness. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 165,
+    "text": "It’s a subtle shift in your emotional state, a tremor in the surface of your calm.",
+    "prompt": "Silhouetted wide composition. It’s a subtle shift in their emotional state, a tremor in the surface of their calm. by moonlight through curtains, in a sparsely furnished living room, with practiced numbness. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 166,
+    "text": "You begin to rearrange the arrangement of the stones again, this time with a deliberate, almost robotic precision.",
+    "prompt": "Back-focused over-shoulder view — The subject begin to rearrange the arrangement of the stones again, this time with a deliberate, almost robotic precision. at a bus stop at dusk, under cool blue-hour window light, with the weight of unspoken words. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 167,
+    "text": "You place the obsidian shard on top of a smaller, less significant stone, aligning it with a precise angle.",
+    "prompt": "Handheld-style documentary frame. The subject place the obsidian shard on top of a smaller, less significant stone, aligning it with a precise angle. In a grocery aisle late at night, under cold monitor-screen glow, with building pressure. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 168,
+    "text": "A tiny, almost imperceptible shift in its position causes the stone to wobble slightly.",
+    "prompt": "Extreme close detail. A tiny, almost imperceptible shift in its position causes the stone to wobble slightly. On a fire escape above an alley, under muted phone-screen glow, with quiet suffocating tension. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 169,
+    "text": "You watch it, analyzing the movement, calculating the consequences. It’s a ritualistic action, a way of asserting control over the unpredictable nature of things.",
+    "prompt": "Low-angle dramatic frame. The subject watch it, analyzing the movement, calculating the consequences. It’s a ritualistic action, a way of asserting control over the unpredictable nature of things. In a hospital corridor, in high-contrast side lighting, with the hush before confrontation. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 170,
+    "text": "You take another breath, feeling a slight tightening in your chest.",
+    "prompt": "Chiaroscuro portrait frame. The subject take another breath, feeling a slight tightening in their chest. under yellow hallway sconce, in a small bedroom with curtains drawn, with the quiet of a room after an argument. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 171,
+    "text": "You realize that you are not trying to anything, but simply trying to the potential for chaos.",
+    "prompt": "High-angle composition — The subject realize that the subject is not trying to anything, but simply trying to the potential for chaos. inside an empty elevator, by pale morning light through blinds, with quiet devastation. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 172,
+    "text": "You find yourself instinctively reaching for a small, smooth pebble, turning it over and over in your fingers, a tiny,",
+    "prompt": "Intimate close-up. The subject find themselves instinctively reaching for a small, smooth pebble, turning it over and over in their fingers, a tiny,. At a restaurant table for two, by moonlight through curtains, with practiced numbness. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 173,
+    "text": "rhythmic motion. It's a habit, a grounding technique. You start to think about the feeling of the pebble in your hand, the texture of its surface,",
+    "prompt": "Insert detail shot. Rhythmic motion. It's a habit, a grounding technique. the subject start to think about the feeling of the pebble in their hand, the texture of its surface,. in fading dusk ambience, on a stairwell landing, with cold emotional distance. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 174,
+    "text": "the way it feels against your skin. It’s a fleeting moment of sensory awareness, a momentary escape from the swirling currents of your thoughts.",
+    "prompt": "Cinematic wide shot. The way it feels against their skin. It’s a fleeting moment of sensory awareness, a momentary escape from the swirling currents of their thoughts. under cold monitor-screen glow, in a laundromat at night, with restrained anger beneath calm. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 175,
+    "text": "You begin to feel a slight tremor, a subtle shift in your posture.",
+    "prompt": "Static slow-burn frame — The subject begin to feel a slight tremor, a subtle shift in their posture. in a parking garage under flickering light, in grey storm-day window haze, with the sense of a held breath. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 176,
+    "text": "It’s not a dramatic movement, not a forceful one, but it’s undeniably present.",
+    "prompt": "Chiaroscuro portrait frame — It’s not a dramatic movement, not a forceful one, but it’s undeniably present. at a doorway threshold, with harsh fluorescent glare, with the weight of unspoken words. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 177,
+    "text": "You notice that the arrangement of the stones seems slightly… unbalanced. A minor deviation from the initial pattern.",
+    "prompt": "Tight medium shot. The subject notice that the arrangement of the stones seems slightly… unbalanced. A minor deviation from the initial pattern. On a rooftop overlooking the city, under yellow hallway sconce, with uneasy recognition. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 178,
+    "text": "It’s almost a challenge, a subtle assertion of your control. You pause, allowing the silence to settle around you.",
+    "prompt": "Back-focused over-shoulder view. It’s almost a challenge, a subtle assertion of their control. the subject pause, allowing the silence to settle around the subject. In a small bedroom with curtains drawn, in high-contrast side lighting, with the stillness of aftermath. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 179,
+    "text": "You look at your hands, examining them carefully. They’re covered in a fine layer of dust, a testament to the long period of inactivity.",
+    "prompt": "Intimate close-up. The subject look at their hands, examining them carefully. They’re covered in a fine layer of dust, a testament to the long period of inactivity. On a park bench in cold air, in fading dusk ambience, with practiced numbness. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 180,
+    "text": "You begin to slowly, deliberately, start to arrange the stones again, this time with a slightly more fluid,",
+    "prompt": "Over-the-shoulder frame. The subject begin to slowly, deliberately, start to arrange the stones again, this time with a slightly more fluid,. lit by dim tungsten overhead, on a fire escape above an alley, with deliberate coldness. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 181,
+    "text": "less controlled motion. You don’t consciously decide what to do, you simply… allow yourself to move.",
+    "prompt": "Silhouetted wide composition — Less controlled motion. the subject don’t consciously decide what to do, the subject simply… allow themselves to move. at a restaurant table for two, by pale morning light through blinds, with building pressure. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 182,
+    "text": "It’s a slow, almost unconscious process, a return to the initial pattern.",
+    "prompt": "Canted-angle tension frame. It’s a slow, almost unconscious process, a return to the initial pattern. in candle-lit amber warmth, in a dim apartment kitchen, with quiet devastation. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 183,
+    "text": "You continue this motion for several minutes, your movements becoming increasingly relaxed. The tension in your shoulders begins to ease.",
+    "prompt": "Extreme close detail. The subject continue this motion for several minutes, their movements becoming increasingly relaxed. The tension in their shoulders begins to ease. in low-key shadow with one practical lamp, in a hospital corridor, with the quiet of a room after an argument. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 184,
+    "text": "You find yourself instinctively reaching for a small, grey stone, turning it over and over in your fingers.",
+    "prompt": "Low-angle dramatic frame. The subject find themselves instinctively reaching for a small, grey stone, turning it over and over in their fingers. In a parking garage under flickering light, under yellow hallway sconce, with slow dawning realization. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 185,
+    "text": "It feels cool to the touch, almost… grounding. You look at your hands again, and for a moment, you see a faint, almost imperceptible smile.",
+    "prompt": "Wide establishing view — It feels cool to the touch, almost… grounding. the subject look at their hands again, and for a moment, the subject see a faint, almost imperceptible smile. at a doorway threshold, washed in soft overcast daylight, with the stillness of aftermath. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 186,
+    "text": "It’s a small, solitary expression, a fleeting glimpse of the joy you once felt.",
+    "prompt": "Back-focused over-shoulder view. It’s a small, solitary expression, a fleeting glimpse of the joy the subject once felt. by moonlight through curtains, in a sparse office, with the erosion of trust. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 187,
+    "text": "It's a reminder of a time when you weren’t so guarded, so… anxious.",
+    "prompt": "Insert detail shot. It's a reminder of a time when the subject weren’t so guarded, so… anxious. On a quiet residential street, top-lit by a bare ceiling fixture, with the chill of being watched. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  },
+  {
+    "id": 188,
+    "text": "The feeling of that joy is a fragile thing, easily obscured by the present, but it’s there,",
+    "prompt": "Handheld-style documentary frame. The feeling of that joy is a fragile thing, easily obscured by the present, but it’s there,. by warm desk-lamp glow, on a park bench in cold air, with cold emotional distance. 16:9 frame, muted cinematic palette, controlled shadows, photorealistic detail, natural grain, no text or logos."
+  },
+  {
+    "id": 189,
+    "text": "simmering beneath the surface. You stop, your hand resting on the smooth surface of the stone.",
+    "prompt": "Two-person medium frame. Simmering beneath the surface. the subject stop, their hand resting on the smooth surface of the stone. In a laundromat at night, by pale morning light through blinds, with the sense of a held breath. 16:9 widescreen, photorealistic, cinematic shadows, shallow depth of field, film still quality, natural skin texture, no text or watermarks."
+  },
+  {
+    "id": 190,
+    "text": "You take a slow, deliberate breath, letting it fill your lungs and settle in your chest.",
+    "prompt": "Chiaroscuro portrait frame — The subject take a slow, deliberate breath, letting it fill their lungs and settle in their chest. on a stairwell landing, under cold monitor-screen glow, with deliberate coldness. 16:9 frame, natural lighting, photorealistic texture, cinematic contrast, film-grade color grading, no text overlays."
+  },
+  {
+    "id": 191,
+    "text": "You look at the arrangement of the stones, and for a moment, you seem to lose yourself in the patterns,",
+    "prompt": "Silhouetted wide composition. The subject look at the arrangement of the stones, and for a moment, the subject seem to lose themselves in the patterns,. with dramatic shadow falloff, at a doorway threshold, with practiced numbness. 16:9 cinematic composition, photorealistic detail, controlled dramatic lighting, shallow focus, film-quality still, no captions or logos."
+  },
+  {
+    "id": 192,
+    "text": "the textures, the subtle shifts in the balance. It’s",
+    "prompt": "Over-the-shoulder frame — The textures, the subtle shifts in the balance. It’s. at a bus stop at dusk, in fading dusk ambience, with restrained anger beneath calm. 16:9 wide composition, cinematic depth, natural human proportions, moody realistic lighting, film-still quality, no watermarks."
+  }
+]

@@ -1,0 +1,25 @@
+# Ignore generated media and large files
+frames/
+clips/
+*.mp4
+*.mp3
+*.wav
+*.png
+*.jpg
+*.srt
+*.ass
+scripts_history/
+
+# Ignore state & logs
+pipeline_state.json
+*.log
+*.log.1
+*.bak*
+
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore secrets
+.env
+secrets.env

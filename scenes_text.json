@@ -1,0 +1,818 @@
+[
+  {
+    "id": 1,
+    "text": "You apologize to a wall for crimes you never actually committed."
+  },
+  {
+    "id": 2,
+    "text": "That is how you try to silence your own guilt."
+  },
+  {
+    "id": 3,
+    "text": "The wall never responds, leaving the weight of your unearned remorse to settle in your chest."
+  },
+  {
+    "id": 4,
+    "text": "You ignore the subtle shifts in your partner’s tone when you’re late. That silence is a cue for their frustration."
+  },
+  {
+    "id": 5,
+    "text": "The frustration feeds their habit of withdrawing, turning your presence into a threat."
+  },
+  {
+    "id": 6,
+    "text": "You wait for the apology to feel like an absolution."
+  },
+  {
+    "id": 7,
+    "text": "Apology is a bandage over a wound that never closed."
+  },
+  {
+    "id": 8,
+    "text": "The wound widens each time you pretend it’s healed, and the silent treatment becomes a deeper scar."
+  },
+  {
+    "id": 9,
+    "text": "You count the minutes until the room empties of conversation. Time is the enemy in a silent storm."
+  },
+  {
+    "id": 10,
+    "text": "The emptiness stretches, tightening around your thoughts until they feel suffocated."
+  },
+  {
+    "id": 11,
+    "text": "You think the silence is a test of your worth."
+  },
+  {
+    "id": 12,
+    "text": "Worth is measured in how many times you can endure being ignored."
+  },
+  {
+    "id": 13,
+    "text": "The test erodes your sense of value, replacing it with doubt."
+  },
+  {
+    "id": 14,
+    "text": "You believe that staying quiet will make the silence end. Quiet is a strategy of appeasement."
+  },
+  {
+    "id": 15,
+    "text": "The strategy only reinforces the power of the silence, letting it grow unchecked."
+  },
+  {
+    "id": 16,
+    "text": "You assume that the silent treatment is a temporary tactic. Tactics are tools, not permanent fixtures."
+  },
+  {
+    "id": 17,
+    "text": "The tool turns into a weapon when it’s used repeatedly, turning normal interaction into a battlefield."
+  },
+  {
+    "id": 18,
+    "text": "You start to doubt whether your emotions are valid. Validity is granted by your own acknowledgment."
+  },
+  {
+    "id": 19,
+    "text": "When the other side denies your feelings, your own validation frays."
+  },
+  {
+    "id": 20,
+    "text": "You try to match the silence with your own restraint. Restraint is a mirror of the other’s behavior."
+  },
+  {
+    "id": 21,
+    "text": "The mirror reflects only the void, magnifying the distance between you."
+  },
+  {
+    "id": 22,
+    "text": "You notice how the silence isolates you from the rest of the world. Isolation is a byproduct of emotional withdrawal."
+  },
+  {
+    "id": 23,
+    "text": "The isolation deepens the silence, turning a conversation into a solitary echo chamber."
+  },
+  {
+    "id": 24,
+    "text": "You wonder if the silence is a form of control. Control is exercised through absence, not presence."
+  },
+  {
+    "id": 25,
+    "text": "The absence becomes a leash, binding your actions to the other’s moods. You begin to anticipate the next moment of withdrawal."
+  },
+  {
+    "id": 26,
+    "text": "Anticipation is a mental loop that keeps you on edge."
+  },
+  {
+    "id": 27,
+    "text": "The loop locks your thoughts in a cycle that never lets you move forward."
+  },
+  {
+    "id": 28,
+    "text": "You realize that the silent treatment is a subtle form of manipulation. Manipulation is the art of bending perception."
+  },
+  {
+    "id": 29,
+    "text": "When perception is bent, reality itself becomes a negotiable concept."
+  },
+  {
+    "id": 30,
+    "text": "You feel the pressure of an invisible wall rising around you. Pressure builds when communication is cut."
+  },
+  {
+    "id": 31,
+    "text": "The wall, once solid, now cracks under the strain of your own resilience. You start to question the fairness of the silence."
+  },
+  {
+    "id": 32,
+    "text": "Fairness is a social construct that often favors the louder voice."
+  },
+  {
+    "id": 33,
+    "text": "The louder voice in this case is the silence, drowning out any argument for balance."
+  },
+  {
+    "id": 34,
+    "text": "You notice how the silence erodes trust over time. Trust erodes when expectations are unmet."
+  },
+  {
+    "id": 35,
+    "text": "The unmet expectations leave a residue of suspicion that lingers long after the silence ends."
+  },
+  {
+    "id": 36,
+    "text": "Repetition of silence turns it into a default response, a habit that’s hard to break."
+  },
+  {
+    "id": 37,
+    "text": "The invisible damage accumulates, eroding emotional well‑being beneath the surface. You see how the silence can manipulate your self‑esteem."
+  },
+  {
+    "id": 38,
+    "text": "Self‑esteem is fragile and easily bruised. The bruise from silence can leave a permanent mark, altering how you view yourself in relationships."
+  },
+  {
+    "id": 39,
+    "text": "You begin to see the silent treatment as a tool of psychological dominance. Dominance is achieved by controlling the flow of interaction."
+  },
+  {
+    "id": 40,
+    "text": "When interaction stops, dominance is solidified, and the other’s power feels absolute."
+  },
+  {
+    "id": 41,
+    "text": "You notice that the silence can create a false sense of safety. Safety is often equated with stability."
+  },
+  {
+    "id": 42,
+    "text": "The stability offered by silence is deceptive, masking underlying volatility."
+  },
+  {
+    "id": 43,
+    "text": "You question whether the silence is a way to avoid conflict. Avoidance is a common defense mechanism."
+  },
+  {
+    "id": 44,
+    "text": "But avoiding conflict by silencing shifts the conflict into a silent battlefield where no words are exchanged."
+  },
+  {
+    "id": 45,
+    "text": "You recognize that the silent treatment can be a form of punishment. Punishment requires a perceived wrongdoing."
+  },
+  {
+    "id": 46,
+    "text": "When the perceived wrongdoing is nonexistent, the punishment becomes unjust, turning the relationship into a prison."
+  },
+  {
+    "id": 47,
+    "text": "You feel the emotional toll of being left unanswered. Emotional toll is a gradual erosion of mental health."
+  },
+  {
+    "id": 48,
+    "text": "The erosion can lead to anxiety, depression, and a sense of helplessness."
+  },
+  {
+    "id": 49,
+    "text": "The distortion is amplified when the other party refuses to communicate, leaving you alone with your doubts."
+  },
+  {
+    "id": 50,
+    "text": "The uncertainty created by silence forces you to act in a way that satisfies the other’s need for control."
+  },
+  {
+    "id": 51,
+    "text": "You see how the silence can isolate you from support systems. Isolation from support weakens resilience."
+  },
+  {
+    "id": 52,
+    "text": "Resilience is essential for coping, and its loss makes the silence even more crushing."
+  },
+  {
+    "id": 53,
+    "text": "You consider how the silent treatment can be a method of emotional manipulation. Manipulation thrives on emotional imbalance."
+  },
+  {
+    "id": 54,
+    "text": "The imbalance created by silence provides a fertile ground for emotional exploitation."
+  },
+  {
+    "id": 55,
+    "text": "You start to suspect that the silent treatment is a learned response to past trauma. Trauma often leaves survivors with coping mechanisms."
+  },
+  {
+    "id": 56,
+    "text": "The coping mechanism, when misapplied, turns into a harmful pattern that perpetuates abuse."
+  },
+  {
+    "id": 57,
+    "text": "When the other side controls the narrative, the other side controls the emotional outcome."
+  },
+  {
+    "id": 58,
+    "text": "You notice how the silence can create a sense of powerlessness. Powerlessness feeds into the cycle of abuse."
+  },
+  {
+    "id": 59,
+    "text": "The cycle, once started, is difficult to break because the victim feels they have no agency."
+  },
+  {
+    "id": 60,
+    "text": "You see that the silent treatment can be a way to punish emotional expression."
+  },
+  {
+    "id": 61,
+    "text": "The suppression of authenticity can lead to a loss of personal identity."
+  },
+  {
+    "id": 62,
+    "text": "Withdrawal, when used as a threat, forces compliance through fear."
+  },
+  {
+    "id": 63,
+    "text": "You notice how silence can be used to punish perceived weakness. Punishing weakness reinforces the belief that vulnerability is dangerous."
+  },
+  {
+    "id": 64,
+    "text": "The belief discourages future vulnerability, creating a toxic environment."
+  },
+  {
+    "id": 65,
+    "text": "You understand that the silent treatment can be a way to test boundaries. Testing boundaries is a form of control."
+  },
+  {
+    "id": 66,
+    "text": "Control is maintained when the other party remains uncertain about how much is acceptable."
+  },
+  {
+    "id": 67,
+    "text": "You realize that silence can become a weapon against emotional intimacy."
+  },
+  {
+    "id": 68,
+    "text": "When communication is withheld, intimacy collapses, leaving only a shell of a relationship."
+  },
+  {
+    "id": 69,
+    "text": "Positive feedback is absent, so confidence withers."
+  },
+  {
+    "id": 70,
+    "text": "You begin to recognize that the silence is a form of emotional isolation. Isolation is a key component of many abuse dynamics."
+  },
+  {
+    "id": 71,
+    "text": "The isolation intensifies the emotional impact, making recovery more difficult."
+  },
+  {
+    "id": 72,
+    "text": "You notice how the silent treatment can be a way to avoid accountability."
+  },
+  {
+    "id": 73,
+    "text": "Accountability is the cornerstone of healthy relationships. Without accountability, the other party can continue to abuse without consequence."
+  },
+  {
+    "id": 74,
+    "text": "Psychological control erodes trust and safety. The erosion can leave long‑term scars that are often overlooked."
+  },
+  {
+    "id": 75,
+    "text": "When it is punished, it becomes a cycle of fear that hinders personal growth."
+  },
+  {
+    "id": 76,
+    "text": "When safety is tied to silence, the dependency becomes unhealthy."
+  },
+  {
+    "id": 77,
+    "text": "Exploiting insecurities turns them into tools for control."
+  },
+  {
+    "id": 78,
+    "text": "Control, when exercised through silence, can be subtle yet devastating."
+  },
+  {
+    "id": 79,
+    "text": "When power is maintained through silence, the other party retains dominance."
+  },
+  {
+    "id": 80,
+    "text": "Authenticity is essential for a healthy connection, and its loss signals a deeper dysfunction."
+  },
+  {
+    "id": 81,
+    "text": "Deterrence, when rooted in silence, can keep the victim from speaking up."
+  },
+  {
+    "id": 82,
+    "text": "You notice that the silent treatment can be a tool to avoid confronting problems. Confrontation is necessary for resolution."
+  },
+  {
+    "id": 83,
+    "text": "Avoidance through silence leaves problems unresolved, perpetuating the cycle."
+  },
+  {
+    "id": 84,
+    "text": "You see how the silent treatment can erode the foundation of trust. Trust requires consistent communication."
+  },
+  {
+    "id": 85,
+    "text": "Inconsistent communication, especially through silence, erodes that foundation."
+  },
+  {
+    "id": 86,
+    "text": "Withdrawal leaves the victim feeling abandoned and uncertain."
+  },
+  {
+    "id": 87,
+    "text": "When it becomes a pattern, it disconnects the relationship from genuine emotional connection."
+  },
+  {
+    "id": 88,
+    "text": "Without dialogue, the conflict remains unresolved, creating a persistent tension."
+  },
+  {
+    "id": 89,
+    "text": "When the other party controls the narrative, they shape the emotional reality of the relationship."
+  },
+  {
+    "id": 90,
+    "text": "The silence stretches. You start to wonder if you actually did something wrong. That doubt is the weapon."
+  },
+  {
+    "id": 91,
+    "text": "It forces you to scan your memory for a fault that does not exist."
+  },
+  {
+    "id": 92,
+    "text": "You begin to negotiate with your own conscience. You ask yourself what you can change to make the noise return."
+  },
+  {
+    "id": 93,
+    "text": "The silence is not a pause. It is a tool designed to make you negotiate with a ghost."
+  },
+  {
+    "id": 94,
+    "text": "You replay the last interaction. You frame it in your head."
+  },
+  {
+    "id": 95,
+    "text": "You try to find the exact moment the temperature dropped. You are looking for a trigger."
+  },
+  {
+    "id": 96,
+    "text": "You are looking for a lever you can pull to fix this. There is no lever."
+  },
+  {
+    "id": 97,
+    "text": "The withdrawal was not a reaction to your behavior."
+  },
+  {
+    "id": 98,
+    "text": "It was a decision made before you even opened your mouth. You are not being punished for what you did."
+  },
+  {
+    "id": 99,
+    "text": "You are being punished for existing as a threat to their control."
+  },
+  {
+    "id": 100,
+    "text": "You start to walk on eggshells. You monitor your tone."
+  },
+  {
+    "id": 101,
+    "text": "You choose your words with surgical precision. You become a performer in your own life."
+  },
+  {
+    "id": 102,
+    "text": "Your primary goal shifts from connection to survival."
+  },
+  {
+    "id": 103,
+    "text": "You are no longer trying to be understood. You are trying to be invisible. This is not caution. This is hypervigilance."
+  },
+  {
+    "id": 104,
+    "text": "Your nervous system is rewiring itself to detect danger in neutral signals."
+  },
+  {
+    "id": 105,
+    "text": "A sigh becomes a threat. A glance becomes a verdict."
+  },
+  {
+    "id": 106,
+    "text": "You begin to feel responsible for their mood. You see their silence as failure."
+  },
+  {
+    "id": 107,
+    "text": "You believe that if you were better, smarter, or more accommodating, the silence would stop."
+  },
+  {
+    "id": 108,
+    "text": "You take ownership of their emotional state. You carry the weight of their regulation. This is the core of the abuse."
+  },
+  {
+    "id": 109,
+    "text": "You are being taught that your worth is contingent on managing someone else’s discomfort."
+  },
+  {
+    "id": 110,
+    "text": "You are not a partner. You are a caretaker for a volatile emotional state."
+  },
+  {
+    "id": 111,
+    "text": "You start to justify the behavior. You tell yourself they are just stressed."
+  },
+  {
+    "id": 112,
+    "text": "You tell yourself they need space. You minimize the violation to keep the relationship intact."
+  },
+  {
+    "id": 113,
+    "text": "You are protecting the image of the abuser."
+  },
+  {
+    "id": 114,
+    "text": "You are protecting the story you tell yourself about the relationship. This rationalization is a survival mechanism."
+  },
+  {
+    "id": 115,
+    "text": "It allows you to stay in a situation that is actively eroding your self-esteem."
+  },
+  {
+    "id": 116,
+    "text": "You are trading your truth for peace. But that peace is fragile."
+  },
+  {
+    "id": 117,
+    "text": "It is built on the assumption that the next silence will be shorter. It will not be."
+  },
+  {
+    "id": 118,
+    "text": "You notice the impact on your confidence. You start to doubt your perception. You wonder if you are being too sensitive."
+  },
+  {
+    "id": 119,
+    "text": "You wonder if you are creating problems where none exist."
+  },
+  {
+    "id": 120,
+    "text": "This is gaslighting by omission. They do not have to lie to make you question reality."
+  },
+  {
+    "id": 121,
+    "text": "They just have to stop engaging with it. Your reality becomes provisional."
+  },
+  {
+    "id": 122,
+    "text": "It exists only when they allow it to. When they withdraw, your reality collapses."
+  },
+  {
+    "id": 123,
+    "text": "You are left floating in a void, waiting for them to ground you."
+  },
+  {
+    "id": 124,
+    "text": "You begin to anticipate the silence. You feel the tension rise before they stop speaking."
+  },
+  {
+    "id": 125,
+    "text": "Your body knows the pattern before your mind does. Your heart rate changes."
+  },
+  {
+    "id": 126,
+    "text": "Your stomach tightens. You are living in a state of chronic stress. This is not anxiety. This is trauma."
+  },
+  {
+    "id": 127,
+    "text": "Your brain is learning that safety is conditional. Safety depends on their approval."
+  },
+  {
+    "id": 128,
+    "text": "When they withhold approval, you are unsafe. You are in a constant state of threat."
+  },
+  {
+    "id": 129,
+    "text": "You start to isolate yourself from others. You feel embarrassed by the dynamic."
+  },
+  {
+    "id": 130,
+    "text": "You do not want to explain why you are not talking to your partner."
+  },
+  {
+    "id": 131,
+    "text": "You do not want to justify their behavior to friends."
+  },
+  {
+    "id": 132,
+    "text": "You begin to curate your life around them. Your social circle shrinks."
+  },
+  {
+    "id": 133,
+    "text": "You become more dependent on the source of your pain."
+  },
+  {
+    "id": 134,
+    "text": "The abuser knows this. They know that the longer the silence lasts, the more isolated you become."
+  },
+  {
+    "id": 135,
+    "text": "The more isolated you become, the harder it is to leave."
+  },
+  {
+    "id": 136,
+    "text": "You start to resent them, but you cannot act on it."
+  },
+  {
+    "id": 137,
+    "text": "You feel a cold anger building in your chest. You want to scream."
+  },
+  {
+    "id": 138,
+    "text": "You want to demand answers. But the fear of prolonged silence stops you."
+  },
+  {
+    "id": 139,
+    "text": "You swallow the anger. You store it. It festers. It turns inward."
+  },
+  {
+    "id": 140,
+    "text": "You begin to hate yourself for feeling this way. You hate yourself for not being able to fix it."
+  },
+  {
+    "id": 141,
+    "text": "You hate yourself for still caring. The silence is not just about them. It is about how it reshapes you."
+  },
+  {
+    "id": 142,
+    "text": "It strips away your autonomy. It replaces your agency with compliance. You realize that the silence is not a communication breakdown."
+  },
+  {
+    "id": 143,
+    "text": "It is a power move. It is a way to assert dominance without physical force."
+  },
+  {
+    "id": 144,
+    "text": "It is a way to say, I can disappear, and you cannot."
+  },
+  {
+    "id": 145,
+    "text": "You are at the bottom. You are the one who must work to maintain the connection."
+  },
+  {
+    "id": 146,
+    "text": "They are the one who can sever it."
+  },
+  {
+    "id": 147,
+    "text": "You start to question your value. You ask yourself what is missing. You ask yourself what is broken."
+  },
+  {
+    "id": 148,
+    "text": "You look in the mirror and see a problem. You do not see a person. You see a variable in an equation."
+  },
+  {
+    "id": 149,
+    "text": "The variable is you. The equation is their happiness. You are adjusting yourself to fit the mold."
+  },
+  {
+    "id": 150,
+    "text": "You are shrinking. You are simplifying. You are becoming easier to manage. You are becoming easier to ignore."
+  },
+  {
+    "id": 151,
+    "text": "The silence is working. It is doing exactly what it was designed to do. It is making you smaller."
+  },
+  {
+    "id": 152,
+    "text": "You try to break the cycle. You try to talk. You try to ask. You try to be gentle."
+  },
+  {
+    "id": 153,
+    "text": "You try to be loud. Nothing works. The silence is a wall. It is solid. It is impenetrable."
+  },
+  {
+    "id": 154,
+    "text": "You throw your words against it. They bounce back. You are left alone with the echo of your own voice."
+  },
+  {
+    "id": 155,
+    "text": "You realize that the problem is not communication. The problem is control. They do not want to talk to you."
+  },
+  {
+    "id": 156,
+    "text": "They want you to seek them out. They want you to chase. They want you to beg for acknowledgment."
+  },
+  {
+    "id": 157,
+    "text": "You start to wonder if you are crazy. You wonder if you are the problem. You wonder if you are too much."
+  },
+  {
+    "id": 158,
+    "text": "The silence feeds these questions. It amplifies them. It makes them louder than your own thoughts."
+  },
+  {
+    "id": 159,
+    "text": "You are in a battle with your own mind. You are fighting for your sanity and your identity."
+  },
+  {
+    "id": 160,
+    "text": "The silence is stripping it away, piece by piece. You are not just in a relationship. You are in a siege."
+  },
+  {
+    "id": 161,
+    "text": "And the enemy is the absence of their presence. You keep replaying the last exchange in your mind."
+  },
+  {
+    "id": 162,
+    "text": "Every sentence becomes a loop, a rehearsal that never ends. This looping keeps the silence alive, feeding doubt."
+  },
+  {
+    "id": 163,
+    "text": "You check your phone for a missed call that never comes. That check is a desperate grasp for validation."
+  },
+  {
+    "id": 164,
+    "text": "Each missed notification turns the void into a battlefield where you must prove your worth."
+  },
+  {
+    "id": 165,
+    "text": "You start to schedule your day around the hope of a reply. Planning around silence turns routine into a countdown."
+  },
+  {
+    "id": 166,
+    "text": "When the expected message never arrives, the countdown collapses, leaving a hole that grows wider."
+  },
+  {
+    "id": 167,
+    "text": "You ask yourself if you said something wrong. That question is a self-sanction that erodes confidence."
+  },
+  {
+    "id": 168,
+    "text": "The more you blame yourself, the deeper the silence feels like punishment."
+  },
+  {
+    "id": 169,
+    "text": "You begin to ignore your own needs to avoid confrontation."
+  },
+  {
+    "id": 170,
+    "text": "Avoidance is a shield that keeps the other from seeing your pain."
+  },
+  {
+    "id": 171,
+    "text": "But the shield also blocks your own voice, making you feel invisible. You notice your mood shifting from anger to numbness."
+  },
+  {
+    "id": 172,
+    "text": "Numbness is a defense that keeps the emotional storm from breaking out."
+  },
+  {
+    "id": 173,
+    "text": "When you become numb, the silent treatment becomes a silent ally, protecting you from the hurt."
+  },
+  {
+    "id": 174,
+    "text": "You start to doubt the authenticity of your own emotions. Doubt is a fog that obscures truth."
+  },
+  {
+    "id": 175,
+    "text": "When truth is obscured, the silent treatment feels like a natural state rather than abuse."
+  },
+  {
+    "id": 176,
+    "text": "You find yourself withdrawing from friends and family. Withdrawal is a withdrawal that isolates you."
+  },
+  {
+    "id": 177,
+    "text": "Isolation deepens the silence, turning it into a personal prison."
+  },
+  {
+    "id": 178,
+    "text": "You begin to believe that the silence is a test of loyalty. Testing loyalty is a twisted logic that justifies control."
+  },
+  {
+    "id": 179,
+    "text": "When loyalty is demanded, the silence becomes a tool to punish dissent."
+  },
+  {
+    "id": 180,
+    "text": "You notice that your self‑esteem drops with every ignored message. Drop in self‑esteem is a casualty of emotional manipulation."
+  },
+  {
+    "id": 181,
+    "text": "When you lose self‑esteem, the silent treatment gains power, becoming a weapon. You start to feel responsible for the other’s emotions."
+  },
+  {
+    "id": 182,
+    "text": "Responsibility is an illusion that keeps you in the game."
+  },
+  {
+    "id": 183,
+    "text": "When you think you can fix the silence, you stay trapped in the cycle."
+  },
+  {
+    "id": 184,
+    "text": "You realize that the silence is a form of gaslighting. Gaslighting is a subtle erasure of reality."
+  },
+  {
+    "id": 185,
+    "text": "When reality is erased, the silent treatment becomes a weapon that disorients you."
+  },
+  {
+    "id": 186,
+    "text": "You feel a creeping sense that you are the problem."
+  },
+  {
+    "id": 187,
+    "text": "This feeling is a manufactured guilt that keeps you compliant."
+  },
+  {
+    "id": 188,
+    "text": "When you believe you are the problem, the silent treatment feels justified, and you stay silent."
+  },
+  {
+    "id": 189,
+    "text": "You start to question whether the relationship is worth it. Questioning is a sign of self‑preservation."
+  },
+  {
+    "id": 190,
+    "text": "When you question, the silence becomes a test of your resolve, and you must decide whether to stay or leave."
+  },
+  {
+    "id": 191,
+    "text": "You find yourself waiting for the other person to make the first move. Waiting is a surrender to control."
+  },
+  {
+    "id": 192,
+    "text": "When you surrender, the silent treatment gains permanence, becoming a permanent state of being."
+  },
+  {
+    "id": 193,
+    "text": "You notice that your body language changes to avoid conflict. Avoidance in posture signals fear."
+  },
+  {
+    "id": 194,
+    "text": "When fear dominates, the silent treatment feels like the only safe space."
+  },
+  {
+    "id": 195,
+    "text": "When punishment is hidden, the silent treatment becomes a covert weapon."
+  },
+  {
+    "id": 196,
+    "text": "You start to think that you need to change yourself to earn attention. Changing oneself is a form of self‑sacrifice."
+  },
+  {
+    "id": 197,
+    "text": "When you sacrifice, the silent treatment becomes a reward for compliance, not a sign of love."
+  },
+  {
+    "id": 198,
+    "text": "You become aware that the silence is a strategy to keep you in the dark. Strategy is a manipulation tactic."
+  },
+  {
+    "id": 199,
+    "text": "When you are kept in the dark, the silent treatment feels inevitable, and you accept it as fate."
+  },
+  {
+    "id": 200,
+    "text": "You find that every time you speak up, the silence returns stronger. Revenge silence is a cycle that punishes expression."
+  },
+  {
+    "id": 201,
+    "text": "When expression is punished, the silent treatment becomes a self‑fulfilling prophecy."
+  },
+  {
+    "id": 202,
+    "text": "You start to wonder if the silence is a reflection of your own inner emptiness."
+  },
+  {
+    "id": 203,
+    "text": "Reflection is a mirror that shows only what you allow."
+  },
+  {
+    "id": 204,
+    "text": "When you reflect emptiness, the silent treatment feels like a natural state, and you cannot break free."
+  }
+]

@@ -61,7 +61,7 @@ FINAL_FILTERS = (
 
 
 def _run(cmd):
-    r = subprocess.run(cmd, shell=True, capture_output=True, text=True)
+    r = subprocess.run(cmd, shell=True, capture_output=True, text=True, timeout=300)
     if r.returncode != 0:
         raise Exception(f"[X] {r.stderr[-400:]}")
     return r.stdout.strip()
@@ -262,7 +262,7 @@ def generate_voice(script_text=None):
 
     # 1. TTS
     print("\n[1/4] Generating Edge-TTS...")
-    words = asyncio.run(_tts_stream(script_text, RAW_AUDIO))
+    words = asyncio.run(asyncio.wait_for(_tts_stream(script_text, RAW_AUDIO), timeout=600))
     print(f"      Words: {len(words)}")
 
     # 2. Studio processing (F1 chain)

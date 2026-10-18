@@ -408,6 +408,9 @@ def run_stage(stage, pstate):
     # Guards
     _wait_if_hot()
     _clean_ram()
+    # KILL ANY STUCK FFMPEG FROM PREVIOUS CRASH
+    os.system("pkill -f ffmpeg")
+    time.sleep(1)
     _force_clear_for_stage(stage)
 
     STATE.add_log(f">> START: {STAGE_LABELS[stage]}")

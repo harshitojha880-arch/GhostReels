@@ -17,7 +17,7 @@ BATCH_SIZE = 5   # small batches to keep ffmpeg happy on Termux
 
 
 def _run(cmd):
-    r = subprocess.run(cmd, shell=True, capture_output=True, text=True)
+    r = subprocess.run(cmd, shell=True, capture_output=True, text=True, timeout=900)
     if r.returncode != 0:
         raise Exception(f"[X] ffmpeg failed:\n{r.stderr[-600:]}")
     return r.stdout.strip()

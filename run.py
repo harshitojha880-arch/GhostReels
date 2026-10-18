@@ -617,8 +617,8 @@ def render():
     header = Panel(
         Align.center(
             Text.from_markup(
-                "[bold bright_cyan]DARK PSYCHOLOGY AUTOPILOT[/]\n"
-                "[dim]24/7 Autonomous Video Generation[/]"
+                "[bold bright_cyan]GHOSTREELS STUDIO[/]\n"
+                "[dim]Turn Any Niche Into a Faceless Video Factory[/]"
             )
         ),
         box=HEAVY, border_style="bright_cyan", padding=(0, 2),
@@ -741,7 +741,7 @@ def render():
 
     footer = Align.center(Text.from_markup(
         "[dim]Ctrl+C to stop  |  State auto-saved  |  "
-        "Gallery: /storage/emulated/0/dark psychology/[/]"
+        "Gallery: /storage/emulated/0/GhostReels/[/]"
     ))
 
     return Group(header, status_bar, "", overall, "",

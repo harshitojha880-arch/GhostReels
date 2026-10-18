@@ -86,54 +86,6 @@ import base64
 SECRET = "GHOSTREELS_SECRET_SALT_987654321"
 LICENSE_FILE = BASE_DIR / ".license"
 
-def generate_key(email):
-    msg = email.lower().strip().encode()
-    sig = hmac.new(SECRET.encode(), msg, hashlib.sha256).digest()
-    b32 = base64.b32encode(sig).decode().upper()
-    raw = b32[:16]
-    return f"GHOST-{raw[0:4]}-{raw[4:8]}-{raw[8:12]}-{raw[12:16]}"
-
-def check_license():
-    if LICENSE_FILE.exists():
-        try:
-            data = json.loads(LICENSE_FILE.read_text())
-            if data.get("key") == generate_key(data.get("email", "")):
-                return True
-        except Exception:
-            pass
-    
-    print("\n[!] LICENSE REQUIRED TO RUN GHOSTREELS")
-    print("Please enter your Email ID and License Key.")
-    email = input("Email: ").strip()
-    key = input("License Key: ").strip()
-    
-    if key == generate_key(email):
-        LICENSE_FILE.write_text(json.dumps({"email": email, "key": key}))
-        print("[OK] License activated successfully!\n")
-        return True
-    else:
-        print("[X] Invalid License Key. Please contact the seller.")
-        return False
-
-if not check_license():
-    import sys
-    sys.exit(1)
-# ============================================================
-
-# ============================================================
-# LICENSE CHECK (Anti-Piracy + Device Lock)
-# ============================================================
-import json, base64, subprocess, uuid
-from pathlib import Path
-from cryptography.hazmat.primitives import serialization
-from cryptography.exceptions import InvalidSignature
-
-PUBLIC_KEY_PEM = b"""-----BEGIN PUBLIC KEY-----
-MCowBQYDK2VwAyEAMRRy4Ux3N9hGvShwqp8yDj3GlBIVtkBjyTvxKPTZxnk=
------END PUBLIC KEY-----"""
-
-LICENSE_FILE = BASE_DIR / "license.json"
-
 def get_device_id():
     # 1. Try Termux Telephony (Works on older Androids/SIM)
     try:
@@ -165,45 +117,6 @@ def get_device_id():
         device_file.write_text(new_id)
         return new_id
 
-def check_license():
-    if not LICENSE_FILE.exists():
-        return False, "License file missing."
-        
-    try:
-        data = json.loads(LICENSE_FILE.read_text())
-        payload = data["payload"]
-        signature = base64.b64decode(data["signature"])
-        
-        public_key = serialization.load_pem_public_key(PUBLIC_KEY_PEM)
-        payload_bytes = json.dumps(payload, sort_keys=True).encode()
-        
-        # Verify Signature
-        public_key.verify(signature, payload_bytes)
-        
-        # Verify Device ID
-        current_device = get_device_id()
-        if payload.get("device_id") != current_device:
-            return False, "License is locked to a different device."
-            
-        return True, "License Valid"
-    except InvalidSignature:
-        return False, "Invalid License Signature (Tampered)."
-    except Exception as e:
-        return False, f"License error: {e}"
-
-valid, msg = check_license()
-if not valid:
-    print(f"\n[!] LICENSE REQUIRED: {msg}")
-    print("Contact seller to get a valid license.json for this device.")
-    import sys
-    sys.exit(1)
-# ============================================================
-console = Console()
-
-
-# ============================================================
-# STATE (UI)
-# ============================================================
 class State:
     def __init__(self):
         self.lock = threading.Lock()

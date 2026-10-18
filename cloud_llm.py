@@ -1,3 +1,16 @@
+import os
+from pathlib import Path
+
+# --- AUTO-LOAD SECRETS ---
+_secrets_file = Path(__file__).parent / "secrets.env"
+if _secrets_file.exists():
+    for _line in _secrets_file.read_text().splitlines():
+        _line = _line.strip()
+        if _line and not _line.startswith("#") and "=" in _line:
+            _k, _v = _line.split("=", 1)
+            os.environ[_k.strip()] = _v.strip().strip('"').strip("'")
+# -------------------------
+
 # cloud_llm.py — Verified models only (from live API lists)
 
 import os

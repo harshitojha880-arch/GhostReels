@@ -1,3 +1,4 @@
+# Generated media (large files)
 frames/
 clips/
 *.mp4
@@ -5,18 +6,41 @@ clips/
 *.wav
 *.png
 *.jpg
+*.jpeg
 *.srt
 *.ass
-scripts_history/
-_archive_*/
+
+# State files
 pipeline_state.json
 video_counter.json
+scene_timeline.json
 word_timings.json
 scenes.json
 scenes_text.json
 scripts.txt
-__pycache__/
+
+# Logs
 *.log
-*.bak*
+*.log.1
+
+# Backups
+*.bak
+*.bak_*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Env & Secrets (MUST NOT LEAK)
+.env
+secrets.env
+
+# IDE
+.vscode/
+.idea/
+
+# Personal
+scripts_history/
 niche_config.json
-local_gemma_server.pid

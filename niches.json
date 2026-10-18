@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "name": "Dark Psychology",
+      "id": "dark_psychology",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "image_style": "Dark psychological drama, controlled shadows, moody lighting",
+      "topics": [
+        "How manipulators use silence as a weapon",
+        "Why intelligent people fall for gaslighting",
+        "The dark side of being 'too understanding'"
+      ]
+    },
+    {
+      "name": "True Crime & Mystery",
+      "id": "true_crime",
+      "voice": "en-US-ChristopherNeural",
+      "image_style": "Crime scene noir, police files, sepia tones, shadowy figures",
+      "topics": [
+        "The mind of Ted Bundy",
+        "How BTK was finally caught",
+        "Unsolved murders of the 1970s"
+      ]
+    },
+    {
+      "name": "Finance & Wealth",
+      "id": "finance",
+      "voice": "en-US-GuyNeural",
+      "image_style": "Luxury minimalism, gold accents, clean modern aesthetic",
+      "topics": [
+        "Why most lottery winners go broke",
+        "The psychology of poverty",
+        "How rich people think differently"
+      ]
+    }
+  ]
+}

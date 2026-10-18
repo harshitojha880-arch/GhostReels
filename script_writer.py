@@ -23,23 +23,18 @@ VOICE_MD = os.path.expanduser("~/.claude/youtube/voice.md")
 # ============================================================
 # TOPICS
 # ============================================================
-DARK_PSYCH_TOPICS = [
-    "How manipulators use silence as a weapon",
-    "The dark psychology of intermittent reinforcement",
-    "Why intelligent people fall for gaslighting",
-    "The psychology of the person who isolates you",
-    "Dark triad traits hidden in charming people",
-    "How trauma bonding actually works",
-    "The psychology of the 'nice' manipulator",
-    "Why the silent treatment is emotional abuse",
-    "The dopamine trap of toxic relationships",
-    "How covert narcissists rewrite your memory",
-    "Why emotional manipulators target empaths",
-    "The psychology of the person who love-bombs then disappears",
-    "How pathological liars construct their reality",
-    "The dark side of being 'too understanding'",
-    "Why the strongest people end up in the worst relationships",
-]
+# Load niche config
+_cfg_path = os.path.join(os.getcwd(), "niche_config.json")
+if os.path.exists(_cfg_path):
+    with open(_cfg_path, "r", encoding="utf-8") as _f:
+        _cfg = json.load(_f)
+        DARK_PSYCH_TOPICS = _cfg.get("topics", ["Dark psychology"])
+else:
+    DARK_PSYCH_TOPICS = [
+        "How manipulators use silence as a weapon",
+        "Why intelligent people fall for gaslighting",
+        "The dark side of being 'too understanding'",
+    ]
 
 
 # ============================================================

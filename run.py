@@ -773,6 +773,12 @@ def main():
     signal.signal(signal.SIGINT, handle_sigint)
     STATE.loop_started = time.time()
 
+    # Auto-run niche selector if config missing
+    config_file = BASE_DIR / "niche_config.json"
+    if not config_file.exists():
+        print("[BOOT] No niche selected. Running selector...")
+        subprocess.run([sys.executable, "niche_selector.py"])
+
     try:
         GALLERY_DIR.mkdir(parents=True, exist_ok=True)
     except Exception:

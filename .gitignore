@@ -1,25 +1,19 @@
-# Ignore generated media and large files
 frames/
 clips/
 *.mp4
 *.mp3
 *.wav
 *.png
-*.jpg
 *.srt
 *.ass
-scripts_history/
-
-# Ignore state & logs
 pipeline_state.json
-*.log
-*.log.1
-*.bak*
-
-# Ignore python cache
+video_counter.json
+word_timings.json
+scenes.json
+scenes_text.json
+scripts.txt
 __pycache__/
-*.pyc
-
-# Ignore secrets
-.env
-secrets.env
+*.log
+*.bak*
+_archive_*/
+niche_config.json

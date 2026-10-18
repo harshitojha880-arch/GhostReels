@@ -13,7 +13,15 @@ import edge_tts
 # ============================================================
 # VOICE PROFILE — LOCKED
 # ============================================================
-VOICE = "en-US-AndrewMultilingualNeural"
+# Load niche config
+import json
+_cfg_path = os.path.join(os.getcwd(), "niche_config.json")
+if os.path.exists(_cfg_path):
+    with open(_cfg_path, "r", encoding="utf-8") as _f:
+        _cfg = json.load(_f)
+        VOICE = _cfg.get("voice", "en-US-AndrewMultilingualNeural")
+else:
+    VOICE = "en-US-AndrewMultilingualNeural"
 RATE = "-2%"
 PITCH = "-5Hz"
 VOLUME = "+0%"

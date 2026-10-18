@@ -13,29 +13,17 @@ OUT_FILE = "scenes.json"
 BATCH_SIZE = 12
 
 
-SYSTEM_PROMPT = """You write cinematic image prompts for a dark-psychology YouTube video.
+# Load image style from niche
+import os
+import json
+_cfg_path = os.path.join(os.getcwd(), "niche_config.json")
+IMAGE_STYLE = ""
+if os.path.exists(_cfg_path):
+    with open(_cfg_path, "r", encoding="utf-8") as _f:
+        IMAGE_STYLE = json.load(_f).get("image_style", "")
 
-For each scene, write ONE image prompt that LITERALLY shows what the scene says.
-Output format: "<id>. <prompt>"
-
-RULES:
-- Show the SPECIFIC action, person, object, or environment from the narration.
-- If the narration says "you check your phone", show a hand holding a phone.
-- If it says "they pass without eye contact", show two people — one passing, one still.
-- If it says "your jaw tightens", show a face with a tightened jaw.
-- Convert "you" to "a person" or "a man/woman".
-- Include: subject + action + environment + lighting + camera angle.
-- Photorealistic cinematic still, 16:9, shallow depth of field, film quality.
-- Dark psychological drama aesthetic, controlled shadows.
-- 50-70 words per prompt.
-- Vary camera angle across scenes (wide/medium/close/over-shoulder/POV/low-angle).
-- No text, captions, logos, watermarks, diagrams, brain imagery, abstract art.
-
-EXAMPLE:
-1. Medium shot of a woman at a dim kitchen counter at night, phone face-down beside her, hands still, cold blue window light, tension in shoulders, photorealistic, 16:9.
-2. Close-up of a man's face at a dinner table, jaw tightened, eyes avoiding contact, warm tungsten overhead, muted colors, cinematic depth.
-
-OUTPUT: only numbered lines, one per scene. No commentary, no headers."""
+SYSTEM_PROMPT = f"""You write cinematic image prompts for a YouTube video.
+    IMAGE STYLE TO ENFORCE: {IMAGE_STYLE}"""
 
 
 def _llm_prompts(batch_text, verbose=True):

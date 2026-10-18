@@ -2,6 +2,38 @@
 # run.py — Dark Psychology Autopilot — Final Integrated Pipeline
 # All systems: cloud LLM chain, local Qwen, video numbering, thermal/RAM guards.
 
+# ============================================================
+# INTEGRITY CHECK (Anti-Tampering)
+# ============================================================
+import sys, os, json, hashlib
+from pathlib import Path
+
+def verify_integrity():
+    base = Path(__file__).parent
+    manifest_file = base / "manifest.json"
+    if not manifest_file.exists(): return True # Dev mode (no manifest)
+    
+    with open(manifest_file, 'r') as f:
+        manifest = json.load(f)
+        
+    for file, expected_hash in manifest.items():
+        filepath = base / file
+        if not filepath.exists():
+            print(f"\n[!] CRITICAL ERROR: Missing file {file}")
+            return False
+        with open(filepath, 'rb') as f:
+            actual_hash = hashlib.sha256(f.read()).hexdigest()
+        if actual_hash != expected_hash:
+            print(f"\n[!] CRITICAL ERROR: Tampered file detected {file}")
+            print("    Please contact the seller for a clean version.")
+            return False
+    return True
+
+if not verify_integrity():
+    sys.exit(1)
+# ============================================================
+
+
 import os
 import re
 import sys

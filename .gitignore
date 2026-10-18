@@ -4,8 +4,11 @@ clips/
 *.mp3
 *.wav
 *.png
+*.jpg
 *.srt
 *.ass
+scripts_history/
+_archive_*/
 pipeline_state.json
 video_counter.json
 word_timings.json
@@ -15,5 +18,5 @@ scripts.txt
 __pycache__/
 *.log
 *.bak*
-_archive_*/
 niche_config.json
+local_gemma_server.pid

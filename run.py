@@ -120,6 +120,84 @@ if not check_license():
     sys.exit(1)
 # ============================================================
 
+# ============================================================
+# LICENSE CHECK (Anti-Piracy + Device Lock)
+# ============================================================
+import json, base64, subprocess, uuid
+from pathlib import Path
+from cryptography.hazmat.primitives import serialization
+from cryptography.exceptions import InvalidSignature
+
+PUBLIC_KEY_PEM = b"""-----BEGIN PUBLIC KEY-----
+MCowBQYDK2VwAyEAMRRy4Ux3N9hGvShwqp8yDj3GlBIVtkBjyTvxKPTZxnk=
+-----END PUBLIC KEY-----"""
+
+LICENSE_FILE = BASE_DIR / "license.json"
+
+def get_device_id():
+    # 1. Try Termux Telephony (Works on older Androids/SIM)
+    try:
+        res = subprocess.run(["termux-telephony-deviceinfo"], capture_output=True, text=True)
+        if res.returncode == 0:
+            dev_id = json.loads(res.stdout).get("device_id")
+            if dev_id and dev_id != "null":
+                return str(dev_id)
+    except:
+        pass
+
+    # 2. Try MAC Address (Works on most Wi-Fi connections)
+    try:
+        with open("/sys/class/net/wlan0/address", "r") as f:
+            mac = f.read().strip().replace(":", "")
+            if mac:
+                return mac
+    except:
+        pass
+
+    # 3. Ultimate Fallback: Generate and save a unique ID for this phone
+    device_file = Path.home() / ".ghostreels_device_id"
+    if device_file.exists():
+        return device_file.read_text().strip()
+    else:
+        # Generate a new secure random ID
+        import secrets
+        new_id = secrets.token_hex(8).upper() # e.g. A1B2C3D4E5F6G7H8
+        device_file.write_text(new_id)
+        return new_id
+
+def check_license():
+    if not LICENSE_FILE.exists():
+        return False, "License file missing."
+        
+    try:
+        data = json.loads(LICENSE_FILE.read_text())
+        payload = data["payload"]
+        signature = base64.b64decode(data["signature"])
+        
+        public_key = serialization.load_pem_public_key(PUBLIC_KEY_PEM)
+        payload_bytes = json.dumps(payload, sort_keys=True).encode()
+        
+        # Verify Signature
+        public_key.verify(signature, payload_bytes)
+        
+        # Verify Device ID
+        current_device = get_device_id()
+        if payload.get("device_id") != current_device:
+            return False, "License is locked to a different device."
+            
+        return True, "License Valid"
+    except InvalidSignature:
+        return False, "Invalid License Signature (Tampered)."
+    except Exception as e:
+        return False, f"License error: {e}"
+
+valid, msg = check_license()
+if not valid:
+    print(f"\n[!] LICENSE REQUIRED: {msg}")
+    print("Contact seller to get a valid license.json for this device.")
+    import sys
+    sys.exit(1)
+# ============================================================
 console = Console()
 
 

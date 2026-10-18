@@ -1,39 +1,24 @@
 # 👻 GhostReels Studio
 
-**GhostReels** is a fully autonomous, 24/7 Faceless Video Generation Pipeline designed to run on Android (via Termux) or Linux. It takes a topic, writes a cinematic script, generates images, creates a realistic AI voiceover, edits the video with motion, burns subtitles, and packages it with SEO titles & thumbnails — completely hands-free.
+**GhostReels** is a fully autonomous, 24/7 Faceless Video Generation Pipeline designed to run on Android (via Termux) or a Linux VPS. It takes a topic, writes a cinematic script, generates AI images, creates a realistic voiceover, adds cinematic motion, burns subtitles, and packages it with SEO titles & thumbnails — completely hands-free.
 
-## ✨ Features
-- **Multi-Niche Support:** Switch between Dark Psychology, True Crime, Finance, etc.
+## ✨ Key Features
+- **Multi-Niche Support:** Choose between Dark Psychology, True Crime, Finance, etc.
 - **100% Automated:** Runs in a loop. Wake up to new videos every day.
 - **Crash-Resume:** If the phone restarts or network drops, it resumes exactly where it left off.
-- **Thermal & RAM Safe:** Automatically pauses if the phone gets too hot.
-- **SEO Ready:** Generates viral titles, descriptions, hashtags, and custom thumbnails.
+- **Thermal & RAM Safe:** Automatically pauses if the device gets too hot. Works perfectly on 4GB+ RAM.
+- **SEO Ready:** Generates viral titles, descriptions, hashtags, and custom AI-generated thumbnails.
+- **Ultra-Secure Licensing:** Device-locked activation to protect your purchase and prevent unauthorized sharing.
 
 ---
 
-## 🛠️ Prerequisites
-1. An Android Phone (8GB RAM recommended) OR a Linux VPS.
-2. **Termux App:** Download from F-Droid (Do NOT use Play Store version).
-3. 4 Free API Keys (Instructions below).
+## 🛠 Prerequisites
+1. **Android Phone** (Minimum 4GB RAM) OR a Linux VPS.
+2. **Termux App:** Download from [F-Droid](https://f-droid.org/en/packages/com.termux/) (Do NOT use the Play Store version, as it is outdated).
+3. **4 Free API Keys:** You will need to create these before installation. Instructions below.
 
 ---
 
-## 🔑 Step 1: Get Your API Keys
-You need to create 4 free accounts to get API keys. Copy these keys, you will need them during installation.
+## 🔑 Step 1: Get Your Free API Keys
 
-1. **Groq (For Script Writing):** Go to console.groq.com -> Sign Up -> API Keys -> Create Key.
-2. **Gemini (Fallback for Script):** Go to aistudio.google.com -> Get API Key -> Create Key.
-3. **NVIDIA (Fallback for Script):** Go to build.nvidia.com -> Sign Up -> Get API Key.
-4. **Agnes AI (For Image Generation):** Go to platform.agnes-ai.com -> Sign Up -> Create Secret Key.
-
----
-
-## 🚀 Step 2: Installation (1 Command)
-
-Open Termux and paste the following commands. The installer will automatically ask for the 4 API keys you just created.
-
-```bash
-pkg update -y && pkg install git -y
-git clone https://github.com/harshitojha880-arch/GhostReels.git
-cd GhostReels
-bash install.sh
+You need 4 free API keys to run the AI

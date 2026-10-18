@@ -1,4 +1,4 @@
-# Generated media (large files)
+# Ignore generated media (too large for git)
 frames/
 clips/
 *.mp4
@@ -10,7 +10,7 @@ clips/
 *.srt
 *.ass
 
-# State files
+# Ignore state & config files
 pipeline_state.json
 video_counter.json
 scene_timeline.json
@@ -18,29 +18,22 @@ word_timings.json
 scenes.json
 scenes_text.json
 scripts.txt
+secrets.env
+niche_config.json
+license.json
 
-# Logs
+# Ignore PRIVATE KEYS (NEVER PUSH THIS)
+private_key.pem
+
+# Ignore logs & backups
 *.log
 *.log.1
-
-# Backups
 *.bak
 *.bak_*
+_archive_*/
+scripts_history/
 
-# Python
+# Ignore python cache
 __pycache__/
 *.pyc
 *.pyo
-.pytest_cache/
-
-# Env & Secrets (MUST NOT LEAK)
-.env
-secrets.env
-
-# IDE
-.vscode/
-.idea/
-
-# Personal
-scripts_history/
-niche_config.json

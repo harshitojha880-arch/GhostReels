@@ -29,6 +29,16 @@ import memory_monitor
 import video_counter
 
 
+
+import sys
+from license_check import verify_license
+
+# STRICT CHECK
+if not verify_license():
+    print("[X] License invalid. Exiting...")
+    sys.exit(1)
+# ============================================================
+
 # ============================================================
 # PATHS
 # ============================================================
@@ -141,6 +151,7 @@ class State:
         self.recent_logs.append((ts, line.rstrip()[:130]))
 
 
+console = Console()
 STATE = State()
 
 

@@ -27,53 +27,56 @@ def get_device_id():
         return new_id
 
 def verify_license():
-    # 1. Agar license.json pehle se hai, toh check karo
-    if LICENSE_FILE.exists():
+    # Agar license.json nahi hai, toh lock screen dikhao
+    if not LICENSE_FILE.exists():
+        dev_id = get_device_id()
+        print("\n" + "="*50)
+        print(" 🔒 GHOSTREELS IS LOCKED")
+        print("="*50)
+        print(f" Your Device ID: \033[1;33m{dev_id}\033[0m")
+        print(" Please send this ID to the seller to get your License Key.")
+        print("="*50)
+        
+        key_input = input("\n Paste License Key here: ").strip()
+        
         try:
-            data = json.loads(LICENSE_FILE.read_text())
-            payload = data["payload"]
-            signature = base64.b64decode(data["signature"])
+            part1, part2 = key_input.split(".")
+            payload = json.loads(base64.b64decode(part1).decode())
+            signature = base64.b64decode(part2)
+            
             public_key = serialization.load_pem_public_key(PUB_KEY_PATH.read_bytes())
             public_key.verify(signature, json.dumps(payload, sort_keys=True).encode())
             
-            # Check Device ID
-            if payload.get("device_id") == get_device_id():
-                return True
-        except Exception:
-            pass # Agar file corrupt hai, toh aage badho aur naya maango
-
-    # 2. Agar license nahi hai, toh Activation Screen dikhao
-    dev_id = get_device_id()
-    print("\n" + "="*50)
-    print(" 🔒 GHOSTREELS IS LOCKED")
-    print("="*50)
-    print(f" Your Device ID: \033[1;33m{dev_id}\033[0m")
-    print(" Please send this ID to the seller to get your License Key.")
-    print("="*50)
-    
-    key_input = input("\n Paste License Key here: ").strip()
-    
+            if payload.get("device_id") != dev_id:
+                print("\n[X] ERROR: This license key is for a different device.")
+                return False
+                
+            license_data = {
+                "payload": payload,
+                "signature": base64.b64encode(signature).decode()
+            }
+            LICENSE_FILE.write_text(json.dumps(license_data, indent=2))
+            print("\n[OK] License Activated Successfully! Starting GhostReels...")
+            return True
+        except Exception as e:
+            print(f"\n[X] Invalid License Key. Please check and try again.")
+            return False
+            
+    # Agar file hai, toh verify karo
     try:
-        # Key format: BASE64_PAYLOAD.BASE64_SIGNATURE
-        part1, part2 = key_input.split(".")
-        payload = json.loads(base64.b64decode(part1).decode())
-        signature = base64.b64decode(part2)
-        
+        data = json.loads(LICENSE_FILE.read_text())
+        payload = data["payload"]
+        signature = base64.b64decode(data["signature"])
         public_key = serialization.load_pem_public_key(PUB_KEY_PATH.read_bytes())
         public_key.verify(signature, json.dumps(payload, sort_keys=True).encode())
         
-        if payload.get("device_id") != dev_id:
-            print("\n[X] ERROR: This license key is for a different device.")
+        if payload.get("device_id") != get_device_id():
+            print("\n[!] LICENSE ERROR: Locked to a different device.")
             return False
-            
-        # Agar sab sahi hai, toh license.json save karo
-        license_data = {
-            "payload": payload,
-            "signature": base64.b64encode(signature).decode()
-        }
-        LICENSE_FILE.write_text(json.dumps(license_data, indent=2))
-        print("\n[OK] License Activated Successfully! Starting GhostReels...")
         return True
+    except InvalidSignature:
+        print("\n[!] LICENSE ERROR: Invalid Signature.")
+        return False
     except Exception as e:
-        print(f"\n[X] Invalid License Key. Please check and try again.")
+        print(f"\n[!] LICENSE ERROR: {e}")
         return False

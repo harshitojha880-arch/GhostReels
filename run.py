@@ -76,6 +76,50 @@ STAGE_SCRIPTS = {
     "package":  [("packaging_engine.py", [])],
 }
 
+# ============================================================
+# LICENSE CHECK
+# ============================================================
+import hmac
+import hashlib
+import base64
+
+SECRET = "GHOSTREELS_SECRET_SALT_987654321"
+LICENSE_FILE = BASE_DIR / ".license"
+
+def generate_key(email):
+    msg = email.lower().strip().encode()
+    sig = hmac.new(SECRET.encode(), msg, hashlib.sha256).digest()
+    b32 = base64.b32encode(sig).decode().upper()
+    raw = b32[:16]
+    return f"GHOST-{raw[0:4]}-{raw[4:8]}-{raw[8:12]}-{raw[12:16]}"
+
+def check_license():
+    if LICENSE_FILE.exists():
+        try:
+            data = json.loads(LICENSE_FILE.read_text())
+            if data.get("key") == generate_key(data.get("email", "")):
+                return True
+        except Exception:
+            pass
+    
+    print("\n[!] LICENSE REQUIRED TO RUN GHOSTREELS")
+    print("Please enter your Email ID and License Key.")
+    email = input("Email: ").strip()
+    key = input("License Key: ").strip()
+    
+    if key == generate_key(email):
+        LICENSE_FILE.write_text(json.dumps({"email": email, "key": key}))
+        print("[OK] License activated successfully!\n")
+        return True
+    else:
+        print("[X] Invalid License Key. Please contact the seller.")
+        return False
+
+if not check_license():
+    import sys
+    sys.exit(1)
+# ============================================================
+
 console = Console()
 
 

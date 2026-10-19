@@ -425,6 +425,15 @@ def _force_clear_for_stage(stage):
 # ============================================================
 # STAGE EXECUTION
 # ============================================================
+
+def _cooldown(seconds, reason):
+    STATE.add_log(f"[GUARD] {seconds}s cooldown: {reason}")
+    for _ in range(seconds):
+        if STATE.stop_flag:
+            break
+        time.sleep(1)
+    STATE.add_log(f"[GUARD] Cooldown complete. Resuming...")
+
 def run_stage(stage, pstate):
     STATE.current_stage = stage
     info = STATE.stage_status[stage]
@@ -676,11 +685,10 @@ def worker_loop():
             pstate = run_one_video(pstate)
             cleanup(pstate)
 
-            STATE.add_log("[LOOP] Video ready — cooling down 5 min")
-            for _ in range(300):
-                if STATE.stop_flag:
-                    break
-                time.sleep(1)
+            STATE.add_log("[LOOP] Video ready. Performing cleanup...")
+            # 1 Minute Cooldown after cleanup
+            _cooldown(60, "Protecting device and RAM after video completion")
+            STATE.add_log("[LOOP] Starting next video...")
 
         except Exception as e:
             STATE.add_log(f"[ERROR] {str(e)[:100]}")

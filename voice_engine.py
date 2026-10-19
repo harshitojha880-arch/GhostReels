@@ -262,7 +262,7 @@ def generate_voice(script_text=None):
 
     # 1. TTS
     print("\n[1/4] Generating Edge-TTS...")
-    words = asyncio.run(asyncio.wait_for(_tts_stream(script_text, RAW_AUDIO), timeout=600))
+    words = asyncio.run(asyncio.wait_for(_tts_stream(script_text, RAW_AUDIO), timeout=1800))
     print(f"      Words: {len(words)}")
 
     # 2. Studio processing (F1 chain)

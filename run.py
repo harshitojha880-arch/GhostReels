@@ -426,13 +426,27 @@ def _force_clear_for_stage(stage):
 # STAGE EXECUTION
 # ============================================================
 
+
 def _cooldown(seconds, reason):
-    STATE.add_log(f"[GUARD] {seconds}s cooldown: {reason}")
-    for _ in range(seconds):
+    # Log start
+    STATE.add_log(f"[GUARD] {seconds}s cooldown started: {reason}")
+    
+    # Temporarily change current task name for UI
+    old_task = STATE.current_stage
+    STATE.current_stage = f"COOLDOWN: {reason} ({seconds}s)"
+    
+    for i in range(seconds):
         if STATE.stop_flag:
             break
+        # Update log every 5 seconds so user sees it
+        if i > 0 and i % 5 == 0:
+            STATE.add_log(f"[GUARD] Cooling down... {seconds - i}s remaining")
         time.sleep(1)
-    STATE.add_log(f"[GUARD] Cooldown complete. Resuming...")
+        
+    # Restore stage name
+    STATE.current_stage = old_task
+    STATE.add_log("[GUARD] Cooldown complete. Starting next stage...")
+
 
 def run_stage(stage, pstate):
     STATE.current_stage = stage

@@ -29,14 +29,12 @@ def verify_license():
     time_file = BASE_DIR / ".last_run_time"
     
     if not LICENSE_FILE.exists():
-        print("
-" + "="*50 + "
- 🔒 GHOSTREELS IS LOCKED
-" + "="*50)
-        print(f" Your Device ID: [1;33m{get_device_id()}[0m")
+        print("\n" + "="*50)
+        print(" 🔒 GHOSTREELS IS LOCKED")
+        print("="*50)
+        print(f" Your Device ID: \033[1;33m{get_device_id()}\033[0m")
         print(" Send this ID to the seller for your License Key.")
-        key_input = input("
- Paste License Key here: ").strip()
+        key_input = input("\n Paste License Key here: ").strip()
         try:
             part1, part2 = key_input.split(".")
             payload = json.loads(base64.b64decode(part1).decode())
@@ -44,20 +42,14 @@ def verify_license():
             public_key = serialization.load_pem_public_key(PUB_KEY_PATH.read_bytes())
             public_key.verify(signature, json.dumps(payload, sort_keys=True).encode())
             if payload.get("device_id") != get_device_id():
-                print("
-[X] ERROR: License key is for a different device.")
+                print("\n[X] ERROR: License key is for a different device.")
                 return False
             LICENSE_FILE.write_text(json.dumps({"payload": payload, "signature": base64.b64encode(signature).decode()}, indent=2))
-            
-            # Save current time when license is first activated
             time_file.write_text(str(time.time()))
-            
-            print("
-[OK] License Activated Successfully!")
+            print("\n[OK] License Activated Successfully!")
             return True
         except Exception:
-            print("
-[X] Invalid License Key.")
+            print("\n[X] Invalid License Key.")
             return False
 
     try:
@@ -68,27 +60,21 @@ def verify_license():
         
         current_time = time.time()
         
-        # --- ANTI-TAMPER CHECK ---
         if time_file.exists():
             last_run = float(time_file.read_text())
-            if current_time < last_run - 300: # 5 min tolerance for clock sync
-                print("
-[!] SYSTEM TIME TAMPERING DETECTED. Software Locked.")
+            if current_time < last_run - 300:
+                print("\n[!] SYSTEM TIME TAMPERING DETECTED. Software Locked.")
                 return False
             time_file.write_text(str(current_time))
         else:
             time_file.write_text(str(current_time))
 
-        # --- EXPIRY CHECK ---
         if "expires_at" in data["payload"]:
             if current_time > data["payload"]["expires_at"]:
-                print("
-[!] YOUR 3-HOUR TRIAL HAS EXPIRED.")
+                print("\n[!] YOUR 3-HOUR TRIAL HAS EXPIRED.")
                 print("Please contact the seller to buy the full version.")
                 return False
                 
         return True
     except:
         return False
-
-

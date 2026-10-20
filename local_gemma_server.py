@@ -18,7 +18,7 @@ import urllib.error
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent
-MODEL_PATH = Path.home() / "SCRIPTFORGE" / "models" / "qwen3-0.6b" / "qwen-local.gguf"
+MODEL_PATH = Path.home() / "SCRIPTFORGE" / "models" / "qwen2.5-1.5b" / "qwen2.5-1.5b-instruct-q4_k_m.gguf"
 LOG_FILE = BASE_DIR / "local_gemma_server.log"
 PID_FILE = BASE_DIR / "local_gemma_server.pid"
 

@@ -798,7 +798,7 @@ def render():
     # Current task
     if STATE.current_stage:
         cs = STATE.current_stage
-        info = STATE.stage_status[cs]
+        info = STATE.stage_status.get(cs, {'status': 'Cooldown', 'progress': 0, 'time': ''})
         if info["status"] == "running":
             elapsed = time.time() - info["start"]
             cur, tot = stage_progress(cs)

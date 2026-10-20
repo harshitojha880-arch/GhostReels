@@ -37,3 +37,6 @@ scripts_history/
 __pycache__/
 *.pyc
 *.pyo
+
+dist_secure/
+*.pid
